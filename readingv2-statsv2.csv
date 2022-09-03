@@ -1,0 +1,191 @@
+Id,Label,timeset,original,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,clustering,triangles,eigencentrality,Authority,Hub,componentnumber,stat_inf_class
+"""H"", Abbot of Reading","""H""",,"""H""",73,118,4,0.477273,0.609788,6602.718097,0,0.041851,104,1,0.711372,0.127279,0,2
+"""R"", the carpenter","""R""",,"""R""",11,11,4,0.383367,0.425485,180.368795,0,0.236364,13,0.262298,0.149507,0,0,2
+"Achelmann, the cook",Achelmann,,Achelmann,2,4,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Adam of Benham,Adam 1,,Adam,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Adam of Earley,Adam 2,,Adam,10,20,4,0.374257,0.416226,173.544555,3,0.2,9,0.148195,0.049038,0,0,0
+Adam of Port,Adam 3,,Adam,2,2,6,0.256793,0.270282,0,6,1,1,0.017978,0,0.010038,0,2
+"Adam, prior of Reading",Adam 4,,Adam,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+"Adam, the clerk of Essendene",Adam 5,,Adam,9,9,4,0.377246,0.414903,131.133522,3,0.222222,8,0.146904,0.045514,0,0,1
+"Alan, brother of Raymond",Alan,,Alan,16,22,4,0.374257,0.427249,279.529456,0,0.266667,28,0.361757,0.107382,0.181584,0,2
+"Aldwin, father of Walter",Aldwin,,Aldwin,1,1,6,0.240458,0.25291,0,7,0,0,0.006094,0.002021,0,0,1
+Alexander of Blebury,Alexander 1,,Alexander,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Alexander, the butler",Alexander 2,,Alexander,2,2,6,0.256793,0.270282,0,6,1,1,0.017978,0,0.010038,0,2
+"Alfwin, brother of Walter the cook",Alfwin,,Alfwin,2,2,5,0.278351,0.301587,0,7,1,1,0.039041,0,0.014694,0,1
+Andrew of Wallingford,Andrew,,Andrew,2,2,6,0.250331,0.262963,0,5,1,1,0.012753,0,0.006544,0,2
+"Anscher, Abbot of Reading",Anscher,,Anscher,8,8,5,0.308824,0.340212,625.573994,1,0.178571,5,0.035044,0.015015,0.001465,0,0
+Archenbald,Archenbald,,Archenbals,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Azo of Sonning,Azo,,Azo,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+"Balwin, the squire",Balwin,,Balwin,3,3,5,0.312397,0.352205,0,3,1,3,0.103956,0.003488,0.036088,0,0
+Benedict of York,Benedict,,Benedict,7,7,5,0.32699,0.375397,7.5,2,0.285714,6,0.130777,0.054323,0,0,2
+Christina,Christina,,Christina,1,1,5,0.272727,0.291711,0,0,0,0,0.029074,0.01739,0,0,2
+Daniel Scot,Daniel 1,,Daniel,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+"Daniel, the clerk",Daniel 2,,Daniel,4,4,5,0.357955,0.403616,105.076215,7,0.5,3,0.17876,0,0.115627,0,2
+Durand of the king's chapel,Durand,,Durand,25,29,4,0.391304,0.458995,750.470284,3,0.09,27,0.307155,0.116628,0,0,0
+Edmund of Tilehurst,Edmund,,Edmund,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+Edward Gentil,Edward 1,,Edward,3,4,5,0.324742,0.364815,0,0,1,3,0.161344,0,0.125481,0,2
+"Edward, prior of Reading",Edward 2,,Edward,2,4,5,0.311881,0.349559,0,3,1,1,0.076253,0,0.028285,0,0
+"Edward, the clerk",Edward 3,,Edward,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+Ernald Rufus,Ernald 1,,Ernald,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Ernald, the marshal",Ernald 2,,Ernald,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+"Fulcred, the vitner",Fulcred,,Fulcred,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Geoffrey of Bix,Geoffrey 1,,Geoffrey,3,6,5,0.312397,0.352205,0,3,1,3,0.103956,0,0.039454,0,0
+Geoffrey preposito,Geoffrey 2,,Geoffrey,5,6,5,0.338104,0.385979,138.8627,7,0.3,3,0.124781,0,0.048859,0,1
+"Geoffrey, clerk of Bix",Geoffrey 3,,Geoffrey,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Geoffrey, clerk of Reading",Geoffrey 4,,Geoffrey,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Geoffrey, father-in-law of Turgiso",Geoffrey 5,,Geoffrey,1,1,6,0.246094,0.264462,0,0,0,0,0.013417,0.012128,0,0,2
+"Geoffrey, precentor of Reading",Geoffrey 6,,Geoffrey,2,4,5,0.311881,0.349559,0,3,1,1,0.076253,0,0.028285,0,0
+"Geoffrey, the clerk",Geoffrey 7,,Geoffrey,22,23,4,0.438515,0.494709,2931.762671,7,0.108225,25,0.369865,0.093635,0.112615,0,1
+"Geoffrey, the steward",Geoffrey 8,,Geoffrey,4,6,5,0.321429,0.365873,512.500168,1,0.333333,2,0.086043,0,0.031174,0,0
+"Gerold, son of John de la Rivera",Gerold,,Gerold,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+Gilbert,Gilbert 1,,Gilbert,2,4,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Gilbert Conpernays,Gilbert 2,,Gilbert,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Gilbert latore,Gilbert 3,,Gilbert,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Gilbert of Felda,Gilbert 4,,Gilbert,2,2,6,0.250331,0.262963,0,5,1,1,0.012753,0,0.006544,0,2
+Gilbert super Pontem,Gilbert 5,,Gilbert,5,6,5,0.358634,0.406261,140.225764,0,0.6,6,0.222111,0,0.147047,0,2
+"Gilbert, priest of Tilehurst",Gilbert 6,,Gilbert,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+"Gilbert, son of Gilbert super Pontem",Gilbert 7,,Gilbert,2,2,5,0.324185,0.362169,0,0,1,1,0.105078,0,0.081651,0,2
+"Godard, clerk of Leomenstria",Godard 1,,Godard,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Godard, the clerk",Godard 2,,Godard,3,4,5,0.324742,0.364815,0,0,1,3,0.161777,0,0.12614,0,2
+Godrey of Binfield,Godrey,,Godfrey,9,9,4,0.382591,0.421076,101.449303,0,0.444444,16,0.283012,0.134349,0,0,2
+Godwin of Thatcham,Godwin,,Godwin,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+Hamo of Reading,Hamo 1,,Hamo,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Hamo, son of Walter of Oxford",Hamo 2,,Hamo,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+"Hamo, the scribe",Hamo 3,,Hamo,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Hamone of Shottesbrooke,Hamone,,Hamone,3,4,5,0.311881,0.33836,37.708333,4,0.666667,2,0.05115,0,0.0111,0,1
+"Henry, brother of Walter",Henry,,Henrey,2,2,5,0.311881,0.349559,0,3,1,1,0.072777,0,0.029278,0,1
+Hereward of Maidenhatch,Hereward,,Hereward,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+"Hervey, the priest",Hervey,,Hervey,2,2,5,0.311881,0.349559,0,3,1,1,0.072777,0,0.029278,0,1
+Hubert of Clere,Hubert 1,,Hubert,3,6,5,0.312397,0.352205,0,3,1,3,0.103956,0,0.039454,0,0
+"Hubert, nephew (grandson) of Hugh of Sulham",Hubert 2,,Hubert,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Hugh,Hugh 1,,Hugh,4,4,5,0.335106,0.378924,652.316263,1,0.333333,2,0.148511,0,0.115504,0,0
+"Hugh II, Abbot of Reading",Hugh 2,,Hugh,9,9,5,0.344262,0.372575,569.777663,6,0.194444,7,0.092231,0.052409,0.005019,0,2
+Hugh Maisent,Hugh 3,,Hugh,3,4,5,0.324742,0.364815,0.166667,0,0.666667,2,0.139819,0,0.109038,0,2
+"Hugh IV, Abbot of Cluny",Hugh 4,,Hugh,1,1,6,0.256445,0.267637,0,6,0,0,0.009125,0,0.005019,0,2
+Hugh of Dunesden,Hugh 5,,Hugh,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+Hugh of Mortimer,Hugh 6,,Hugh,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+Hugh of Shottesbrooke,Hugh 7,,Hugh,3,3,5,0.324742,0.364815,0,0,1,3,0.12923,0.009155,0.09472,0,2
+"Hugh, the merchant",Hugh 9,,Hugh,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Hugo, nephew (grandson) of Lambert the chamberlain",Hugo,,Hugh,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+John de la Rivera,John 1,,John,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+John of Cataine,John 2,,John,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+"John, grandson of Adam",John 3,,John,2,2,5,0.311881,0.349559,0,3,1,1,0.072777,0,0.029278,0,1
+"John, the cook",John 4,,John,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Jordan Conpernays,Jordan 1,,Jordan,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Jordan Wille,Jordan 2,,Jordan,4,6,5,0.325862,0.368342,0.166667,0,0.833333,5,0.189188,0,0.137216,0,2
+"Joseph, Abbot of Reading",Joseph,,Joseph,66,96,4,0.451074,0.579365,7418.898986,3,0.03125,65,0.651386,0.260211,0.028454,0,0
+"Lambert, the cook",Lambert,,Lambert,3,6,5,0.324742,0.364815,0,0,1,3,0.175125,0,0.13921,0,2
+Martin,Martin,,Martin,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Master Daniel,Daniel 3,,Daniel,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+Master Gilbert,Gilbert 8,,Gilbert,2,2,5,0.315,0.339153,0,7,1,1,0.060334,0,0.020907,0,1
+Master Hamon,Hamon 2,,Hamone,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+Master W.,"""W""",,"""W""",2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Meuselmus of Bolney,Meuselmus,,Meuselmus,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Nicholas, brother of Meuselmus of Bolney",Nicholas 1,,Nicholas,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Nicholas, son of Henry the goldsmith",Nicholas 2,,Nicholas,11,11,4,0.378,0.421076,87.229447,0,0.327273,18,0.285869,0.14123,0,0,2
+"Nicholas, son of Ralph",Nicholas 3,,Nicholas,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Nicholas, the chaplain",Nicholas 4,,Nicholas,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Osbern Driebried,Osbern,,Osbern,1,1,6,0.263231,0.280247,0,4,0,0,0.012048,0,0.001317,0,1
+Osbert of Maidenhatch,Osbert 1,,Osbert,3,4,5,0.312397,0.352205,0.5,3,0.666667,2,0.103405,0,0.040693,0,0
+Osbert of Rotherwick,Osbert 2,,Osbert,11,11,5,0.351301,0.387478,133.307744,7,0.181818,10,0.137708,0.051025,0,0,1
+Osbert of Waltham,Osbert 3,,Osbert,23,23,4,0.394572,0.458995,612.533257,0,0.130435,33,0.449725,0.277705,0,0,2
+Osmund of Oakley,Osmund,,Osmund,3,4,5,0.324742,0.364815,0,0,1,3,0.161777,0,0.12614,0,2
+Payn Vachell,Payn,,Payn,4,4,4,0.409978,0.447531,621.466211,0,0.333333,2,0.190431,0,0.118532,0,2
+"Peter the Venerable, Abbot of Cluny",Peter 1,,Peter,1,1,6,0.23625,0.249647,0,1,0,0,0.004941,0,0.001438,0,0
+"Peter, the butler",Peter 2,,Peter,2,2,5,0.311881,0.349559,0,3,1,1,0.072777,0,0.029278,0,1
+"Peter, the clerk",Peter 3,,Peter,7,8,5,0.354597,0.408466,951.06967,7,0.190476,4,0.143995,0,0.050991,0,1
+Philip,Philip,,Philip,2,2,5,0.278351,0.301587,0,7,1,1,0.039041,0,0.014694,0,1
+Raher,Raher,,Raher,3,4,5,0.325301,0.365697,0,0,1,3,0.167796,0,0.122899,0,2
+Ralph Bilhog,Ralph 1,,Ralph,2,2,5,0.311367,0.335714,0,4,1,1,0.043983,0,0.010284,0,1
+Ralph Cepernail,Ralph 2,,Ralph,2,2,5,0.315,0.339153,0,7,1,1,0.060334,0,0.020907,0,1
+Ralph Gray,Ralph 3,,Ralph,1,1,6,0.23625,0.249647,0,1,0,0,0.004941,0.00014,0,0,0
+Ralph of Bolney,Ralph 4,,Ralph,3,4,5,0.315526,0.341799,0.720238,7,0.666667,2,0.073296,0,0.025793,0,1
+Ralph of Caversham,Ralph 5,,Ralph,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Ralph of Oxford,Ralph 6,,Ralph,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Ralph of Reading,Ralph 7,,Ralph,2,2,5,0.278351,0.301587,0,7,1,1,0.039041,0,0.014694,0,1
+Ralph of Stanford,Ralph 8,,Ralph,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+Ralph Purcell,Ralph 9,,Ralph,14,27,5,0.336898,0.39612,111.407278,3,0.192308,15,0.182783,0.035139,0.036422,0,0
+Ralph Wille,Ralph 10,,Ralph,5,10,5,0.326425,0.370988,0.333333,0,0.8,8,0.225591,0,0.163811,0,2
+"Ralph, father of Raymond",Ralph 11,,Ralph,1,1,6,0.238636,0.256526,0,3,0,0,0.007531,0,0,0,0
+"Ralph, his partner",Ralph 12,,Ralph,2,2,6,0.241997,0.25776,0,1,1,1,0.00979,0,0.002889,0,0
+"Ralph, the canon",Ralph 13,,Ralph,2,2,5,0.278351,0.301587,0,7,1,1,0.039041,0,0.014694,0,1
+"Ralph, the janitor",Ralph 14,,Ralph,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+"Ralph, the provost",Ralph 15,,Ralph,2,2,6,0.241997,0.25776,0,1,1,1,0.00979,0,0.002889,0,0
+"Ralph, the steward",Ralph 16,,Ralph,6,10,4,0.390496,0.424162,250.255853,7,0.266667,4,0.165939,0,0.058682,0,1
+"Rannulf, son of Tomus",Rannulf,,Rannulf,2,2,5,0.285498,0.311817,143.130598,1,0,0,0.033247,0.001605,0.001451,0,0
+"Raymond, son of Ralph the steward",Raymond 1,,Raymond,3,5,5,0.312914,0.353086,188,3,0.333333,1,0.077802,0,0.028285,0,0
+"Raymond, son of Roger",Raymond 2,,Raymond,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"Raymond, the merchant",Raymond 3,,Raymond,11,20,4,0.429545,0.47619,1725.695176,0,0.290909,16,0.36223,0,0.229856,0,2
+Reading Abbey,Reading,,Reading,7,7,5,0.332746,0.357143,380.065112,5,0.285714,6,0.058428,0.034325,0,0,2
+Reginald Lamb,Reginald 1,,Reginald,5,6,5,0.329268,0.365168,208.170516,7,0.3,3,0.09036,0,0.032262,0,2
+Reginald of Sulham,Reginald 2,,Reginald,2,4,5,0.311881,0.349559,0,3,1,1,0.076253,0,0.028285,0,0
+"Reginald, the butler",Reginald 3,,Reginald,2,2,5,0.278351,0.301587,0,7,1,1,0.039041,0,0.014694,0,1
+"Reginald, the chamberlain",Reginald 4,,Reginald,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+"Reginald, the steward",Reginald 5,,Reginald,2,2,5,0.324185,0.362169,0,0,1,1,0.105078,0,0.081651,0,2
+Richard Boistard,Richard 1,,Richard,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Richard of Oakley,Richard 2,,Richard,2,4,5,0.311881,0.349559,0,3,1,1,0.076253,0,0.028285,0,0
+Richard Wille,Richard 3,,Richard,2,2,5,0.324742,0.363051,0,0,1,1,0.111097,0,0.078409,0,2
+"Richard, son of Hugh of Dunesden",Richard 4,,Richard,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+"Richard, step-son of Azo of Sonning",Richard 5,,Richard,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+Robert of Herewardsley,Robert 1,,Robert,7,7,5,0.332746,0.357143,380.065112,5,0.285714,6,0.058428,0.03401,0.003287,0,2
+Robert of Wallingford,Robert 2,,Robert,2,2,5,0.278351,0.301587,0,7,1,1,0.041361,0,0.016826,0,1
+Robert of Waltham,Robert 3,,Robert,4,6,5,0.3375,0.383333,111.455667,3,0.333333,2,0.114344,0,0.046442,0,1
+Robert Olient,Robert 4,,Robert,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+Robert Partes,Robert 5,,Robert,2,4,5,0.311881,0.349559,0,3,1,1,0.076253,0,0.028285,0,0
+Robert sellario,Robert 6,,Robert,2,2,5,0.324185,0.362169,0,0,1,1,0.103416,0,0.082443,0,2
+"Robert, brother of Hugh of Shottesbrooke",Robert 7,,Robert,3,3,5,0.324742,0.364815,0,0,1,3,0.12923,0,0.095597,0,2
+"Robert, the chamberlain",Robert 8,,Robert,4,6,5,0.316054,0.344444,9.189065,7,0.5,3,0.083939,0,0.028548,0,1
+"Robert, the steward",Robert 9,,Robert,2,2,5,0.311367,0.335714,0,4,1,1,0.043983,0,0.010284,0,1
+Roger of Coley,Roger 1,,Roger,4,4,5,0.330998,0.374515,154.928571,5,0.333333,2,0.116168,0,0.088987,0,2
+Roger of Saint Johns,Roger 2,,Roger,2,2,6,0.256793,0.270282,0,6,1,1,0.017978,0,0.010038,0,2
+Roger of the Chamber,Roger 3,,Roger,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Roger of Waltham,Roger 4,,Roger,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Roger pictore,Roger 5,,Roger,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+"Roger, Abbot of Reading",Roger 6,,Roger,17,18,5,0.356604,0.405203,1458.396013,4,0.110294,15,0.106243,0.01375,0.009783,0,1
+Simon of Wallingford,Simon 1,,Simon,2,2,6,0.250331,0.262963,0,5,1,1,0.012753,0,0.006544,0,2
+"Simon, sub-prior of Reading",Simon 2,,Simon,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+"Simon, the servant",Simon 3,,Simon,2,2,6,0.241997,0.25776,0,1,1,1,0.00979,0,0.002889,0,0
+"Simon, the stable-keeper",Simon 4,,Simon,3,6,5,0.324742,0.364815,0,0,1,3,0.161344,0,0.125481,0,2
+"Simon, the steward",Simon 5,,Simon,4,6,5,0.316054,0.344444,9.189065,7,0.5,3,0.083939,0,0.028548,0,1
+Sir Peter Blund,Peter 4,,Peter,8,8,5,0.343636,0.369929,381.777663,6,0.25,7,0.090782,0.052409,0,0,2
+Tomus,Tomus,,Tomus,7,7,5,0.317114,0.345326,385.456368,1,0.238095,5,0.036083,0.015156,0,0,0
+"Turgis, Geoffrey's son-in-law",Turgis,,Turgis,4,5,5,0.325862,0.368342,188,0,0.5,3,0.163257,0,0.126643,0,2
+Walter Furmache,Walter 1,,Walter,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Walter Marshal,Walter 2,,Walter,1,1,5,0.311367,0.346914,0,3,0,0,0.059312,0,0.024919,0,0
+Walter of Bollyngeshull,Walter 3,,Walter,2,2,5,0.324185,0.362169,0,0,1,1,0.103416,0,0.082443,0,2
+Walter of Constanc',Walter 4,,Walter,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Walter of Essindine,Walter 5,,Walter,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+Walter of Oxford,Walter 6,,Walter,13,21,4,0.483376,0.513668,2999.117222,0,0.153846,12,0.397219,0,0.239971,0,2
+Walter of Stokes,Walter 7,,Walter,3,4,5,0.324742,0.364815,0,0,1,3,0.161777,0,0.12614,0,2
+Walter Peg,Walter 8,,Walter,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+Walter Wille,Walter 9,,Walter,3,4,5,0.325301,0.365697,0,0,1,3,0.1475,0,0.105004,0,2
+"Walter, son of Aldwin Wille",Walter 10,,Walter,3,3,5,0.316054,0.342681,188,7,0.333333,1,0.061778,0,0.0211,0,1
+"Walter, son of Liulf of Stokes",Walter 11,,Walter,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+"Walter, son of Walter of Stokes",Walter 12,,Walter,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+"Walter, son-in-law of Walter of Oxford",Walter 13,,Walter,3,4,5,0.324742,0.364815,0,0,1,3,0.161344,0,0.125481,0,2
+"Walter, the cook",Walter 14,,Walter,5,6,4,0.389691,0.421517,215.515492,7,0.3,3,0.146679,0,0.053185,0,0
+"Walter, the marshal",Walter 15,,Walter,11,11,5,0.313433,0.356966,124.525213,7,0.181818,10,0.104393,0.028765,0,0,1
+Warin of Ponte,Warin 1,,Warin,2,2,5,0.311367,0.335714,0,4,1,1,0.043983,0,0.010284,0,1
+Warin preposito,Warin 2,,Warin,5,6,4,0.389691,0.421517,182.761231,7,0.3,3,0.148998,0,0.055317,0,1
+Warin Wafree,Warin 3,,Warin,2,2,5,0.311881,0.349559,0,3,1,1,0.075702,0,0.029524,0,0
+"Warin, son of Ralph of Wycombe",Warin 4,,Warin,11,11,5,0.300477,0.341887,304.781349,4,0.181818,10,0.054408,0.008517,0,0,1
+William Bevin,William 1,,William,5,8,4,0.389691,0.421517,196.004684,3,0.3,3,0.160814,0,0.061354,0,1
+William Boistard,William 2,,William,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+William Cailli,William 3,,William,2,2,6,0.263598,0.282892,0,4,1,1,0.019214,0,0.002132,0,1
+William Chamberlain,William 4,,William,41,53,4,0.442623,0.527778,2025.645261,0,0.084615,66,0.704901,0.464563,0.121112,0,2
+William Crawe,William 5,,William,2,2,5,0.324185,0.362169,0,0,1,1,0.138722,0,0.112615,0,2
+William Furmache,William 6,,William,2,2,5,0.311881,0.349559,0,3,1,1,0.087015,0,0.036088,0,0
+"William I, Abbot of Reading",William 7,,William,28,38,4,0.384146,0.451058,1907.29119,7,0.089947,34,0.310179,0.124676,0.016762,0,1
+William of Almonry,William 8,,William,2,2,5,0.324742,0.363051,0,0,1,1,0.111097,0,0.078409,0,2
+William of Coley,William 9,,William,2,2,6,0.250331,0.262963,0,5,1,1,0.012753,0,0.006544,0,2
+William of Lincoln,William 10,,William,1,1,5,0.311367,0.346914,0,3,0,0,0.059312,0.002725,0,0,0
+William of Waltham,William 11,,William,5,6,5,0.349353,0.397884,228.877745,0,0.4,4,0.216486,0,0.156036,0,1
+"William, a child",William 12,,William,2,2,5,0.324742,0.363051,0,0,1,1,0.111097,0,0.078409,0,2
+"William, chaplain of Coley",William 13,,William,2,2,5,0.324185,0.362169,0,2,1,1,0.093528,0,0.073328,0,2
+"William, earl of Salisbury",William 14,,William,2,2,6,0.256793,0.270282,0,6,1,1,0.017978,0,0.010038,0,2
+"William, son of Robert of Reading",William 15,,William,14,14,5,0.332746,0.394356,111.093018,3,0.142857,13,0.175225,0.048079,0,0,0
+"William, son of Robert of Waltham",William 16,,William,2,4,5,0.311881,0.349559,0,3,1,1,0.072984,0,0.029616,0,0
+"William, the butler",William 17,,William,3,6,5,0.324742,0.364815,0,0,1,3,0.161777,0,0.12614,0,2
+"William, the steward",William 18,,William,5,6,4,0.41087,0.450176,830.295532,3,0.4,4,0.247902,0,0.168488,0,1
+"William, the vitner",William 19,,William,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
+Wyce of Shottesbrooke,Wyce,,Wyce,2,2,5,0.324185,0.362169,0,0,1,1,0.118426,0,0.09472,0,2
