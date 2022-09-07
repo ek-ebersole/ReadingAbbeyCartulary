@@ -1,0 +1,574 @@
+﻿Source,Target,Type,Label,Src_Label,Tgt_Label,Scr_Role,Tgt_Role,Src_Title,Charter,Year
+"Peter the Venerable, Abbot of Cluny","Anscher, Abbot of Reading",Directed,grants to,Peter the Venerable,Anscher,Grantor,Recipient,Abbot of Cluny,219,1130-1135
+"Anscher, Abbot of Reading",Tomus,Directed,leases to,Anscher,Tomus,Grantor,Recipient,Abbot,821,1130-1135
+Hugh,"Anscher, Abbot of Reading",Directed,witnesses,Hugo,Anscher,Witness,Grantor,,821,1130-1135
+"Ralph, the provost","Anscher, Abbot of Reading",Directed,witnesses,Ralph,Anscher,Witness,Grantor,Provost,821,1130-1135
+"Geoffrey, the steward","Anscher, Abbot of Reading",Directed,witnesses,Gaufredus,Anscher,Witness,Grantor,Steward,821,1130-1135
+"Ralph, his partner","Anscher, Abbot of Reading",Directed,witnesses,Ralph,Anscher,Witness,Grantor,Partner,821,1130-1135
+"Simon, the servant","Anscher, Abbot of Reading",Directed,witnesses,Simon,Anscher,Witness,Grantor,"Assistant, Servant",821,1130-1135
+Hugh,Tomus,Directed,witnesses,Hugo,Tomus,Witness,Recipient,,821,1130-1135
+"Ralph, the provost",Tomus,Directed,witnesses,Ralph,Tomus,Witness,Recipient,Provost,821,1130-1135
+"Geoffrey, the steward",Tomus,Directed,witnesses,Gaufredus,Tomus,Witness,Recipient,Steward,821,1130-1135
+"Ralph, his partner",Tomus,Directed,witnesses,Ralph,Tomus,Witness,Recipient,,821,1130-1135
+"Simon, the servant",Tomus,Directed,witnesses,Simon,Tomus,Witness,Recipient,Assistant,821,1130-1135
+"Anscher, Abbot of Reading",Ralph Gray,Directed,grants to,Anscher,Ralph Gray,Grantor,Recipient,Abbot,822,1130-1135
+"Roger, Abbot of Reading","Warin, son of Ralph of Wycombe",Directed,grants to,Roger,Warin,Grantor,Recipient,Abbot,823,1158-1165
+Osbern Driebried,"Roger, Abbot of Reading",Directed,forfeits to,Osbern,Roger,Forfeitor,Recipient,,823,1158-1165
+Hamone of Shottesbrooke,"Roger, Abbot of Reading",Directed,witnesses,Hamone,Roger,Witness,Grantor,,823,1158-1165
+Godwin of Thatcham,"Roger, Abbot of Reading",Directed,witnesses,Godwyno,Roger,Witness,Grantor,,823,1158-1165
+Hereward of Maidenhatch,"Roger, Abbot of Reading",Directed,witnesses,Herewardo,Roger,Witness,Grantor,,823,1158-1165
+William Cailli,"Roger, Abbot of Reading",Directed,witnesses,Willelmo,Roger,Witness,Grantor,,823,1158-1165
+Edmund of Tilehurst,"Roger, Abbot of Reading",Directed,witnesses,Edmund,Roger,Witness,Grantor,,823,1158-1165
+Robert Olient,"Roger, Abbot of Reading",Directed,witnesses,Robert,Roger,Witness,Grantor,,823,1158-1165
+"Gilbert, priest of Tilehurst","Roger, Abbot of Reading",Directed,witnesses,Gilbert,Roger,Witness,Grantor,,823,1158-1165
+"Walter, son of Liulf of Stokes","Roger, Abbot of Reading",Directed,witnesses,Walter,Roger,Witness,Grantor,,823,1158-1165
+"Peter, the clerk","Roger, Abbot of Reading",Directed,witnesses,Petro,Roger,Witness,Grantor,Cleric/Priest,823,1158-1165
+"Edward, the clerk","Roger, Abbot of Reading",Directed,witnesses,Edward,Roger,Witness,Grantor,Cleric/Priest,823,1158-1165
+Hamone of Shottesbrooke,"Warin, son of Ralph of Wycombe",Directed,witnesses,Hamone,Warin,Witness,Recipient,,823,1158-1165
+Godwin of Thatcham,"Warin, son of Ralph of Wycombe",Directed,witnesses,Godwyno,Warin,Witness,Recipient,,823,1158-1165
+Hereward of Maidenhatch,"Warin, son of Ralph of Wycombe",Directed,witnesses,Herewardo,Warin,Witness,Recipient,,823,1158-1165
+William Cailli,"Warin, son of Ralph of Wycombe",Directed,witnesses,Willelmo,Warin,Witness,Recipient,,823,1158-1165
+Edmund of Tilehurst,"Warin, son of Ralph of Wycombe",Directed,witnesses,Edmund,Warin,Witness,Recipient,,823,1158-1165
+Robert Olient,"Warin, son of Ralph of Wycombe",Directed,witnesses,Robert,Warin,Witness,Recipient,,823,1158-1165
+"Gilbert, priest of Tilehurst","Warin, son of Ralph of Wycombe",Directed,witnesses,Gilbert,Warin,Witness,Recipient,,823,1158-1165
+"Walter, son of Liulf of Stokes","Warin, son of Ralph of Wycombe",Directed,witnesses,Walter,Warin,Witness,Recipient,,823,1158-1165
+"Peter, the clerk","Warin, son of Ralph of Wycombe",Directed,witnesses,Petro,Warin,Witness,Recipient,Cleric/Priest,823,1158-1165
+"Edward, the clerk","Warin, son of Ralph of Wycombe",Directed,witnesses,Edward,Warin,Witness,Recipient,Cleric/Priest,823,1158-1165
+"Roger, Abbot of Reading","Geoffrey, the clerk",Directed,leases to,Roger,Geoffrey,Grantor,Recipient,Abbot,824,1158-1165
+"Robert, the steward","Roger, Abbot of Reading",Directed,witnesses,Robert,Roger,Witness,Grantor,Steward (dapifer),824,1158-1165
+Hamone of Shottesbrooke,"Roger, Abbot of Reading",Directed,witnesses,Hamone,Roger,Witness,Grantor,,824,1158-1165
+Warin of Ponte,"Roger, Abbot of Reading",Directed,witnesses,Warin,Roger,Witness,Grantor,,824,1158-1165
+Ralph Bilhog,"Roger, Abbot of Reading",Directed,witnesses,Radulpho,Roger,Witness,Grantor,,824,1158-1165
+Reginald Lamb,"Roger, Abbot of Reading",Directed,witnesses,Rainaldo,Roger,Witness,Grantor,,824,1158-1165
+"Robert, the steward","Geoffrey, the clerk",Directed,witnesses,Robert,Geoffrey,Witness,Recipient,Steward,824,1158-1165
+Hamone of Shottesbrooke,"Geoffrey, the clerk",Directed,witnesses,Hamone,Geoffrey,Witness,Recipient,,824,1158-1165
+Warin of Ponte,"Geoffrey, the clerk",Directed,witnesses,Warin,Geoffrey,Witness,Recipient,,824,1158-1165
+Ralph Bilhog,"Geoffrey, the clerk",Directed,witnesses,Radulpho,Geoffrey,Witness,Recipient,,824,1158-1165
+Reginald Lamb,"Geoffrey, the clerk",Directed,witnesses,Rainaldo,Geoffrey,Witness,Recipient,,824,1158-1165
+"William I, Abbot of Reading","Walter, the marshal",Directed,grants to,William I,Walter,Grantor,Recipient,Abbot,825,1165-1173
+"Simon, the steward","William I, Abbot of Reading",Directed,witnesses,Simon,William I,Witness,Grantor,Steward,825,1165-1173
+Ralph of Reading,"William I, Abbot of Reading",Directed,witnesses,Radulfo,William I,Witness,Grantor,,825,1165-1173
+"Reginald, the butler","William I, Abbot of Reading",Directed,witnesses,Reginald,William I,Witness,Grantor,"Butler, Cup-bearer (pincerna)",825,1165-1173
+Philip,"William I, Abbot of Reading",Directed,witnesses,Philip,William I,Witness,Grantor,,825,1165-1173
+"Robert, the chamberlain","William I, Abbot of Reading",Directed,witnesses,Robert,William I,Witness,Grantor,Chamberlin,825,1165-1173
+"Walter, the cook","William I, Abbot of Reading",Directed,witnesses,Walter,William I,Witness,Grantor,Cook,825,1165-1173
+"Ralph, the canon","William I, Abbot of Reading",Directed,witnesses,Radulfo,William I,Witness,Grantor,Canon,825,1165-1173
+"Peter, the clerk","William I, Abbot of Reading",Directed,witnesses,Petro,William I,Witness,Grantor,Cleric/Priest,825,1165-1173
+Geoffrey preposito,"William I, Abbot of Reading",Directed,witnesses,Gaufredus,William I,Witness,Grantor,Provost,825,1165-1173
+"Alfwin, brother of Walter the cook","William I, Abbot of Reading",Directed,witnesses,Alfwino,William I,Witness,Grantor,,825,1165-1173
+"Simon, the steward","Walter, the marshal",Directed,witnesses,Simon,Walter,Witness,Recipient,Steward,825,1165-1173
+Ralph of Reading,"Walter, the marshal",Directed,witnesses,Radulfo,Walter,Witness,Recipient,,825,1165-1173
+"Reginald, the butler","Walter, the marshal",Directed,witnesses,Reginald,Walter,Witness,Recipient,Cup-bearer,825,1165-1173
+Philip,"Walter, the marshal",Directed,witnesses,Philip,Walter,Witness,Recipient,,825,1165-1173
+"Robert, the chamberlain","Walter, the marshal",Directed,witnesses,Robert,Walter,Witness,Recipient,Chamberlin,825,1165-1173
+"Walter, the cook","Walter, the marshal",Directed,witnesses,Walter,Walter,Witness,Recipient,Cook,825,1165-1173
+"Ralph, the canon","Walter, the marshal",Directed,witnesses,Radulfo,Walter,Witness,Recipient,Canon,825,1165-1173
+"Peter, the clerk","Walter, the marshal",Directed,witnesses,Petro,Walter,Witness,Recipient,Cleric/Priest,825,1165-1173
+Geoffrey preposito,"Walter, the marshal",Directed,witnesses,Gaufredus,Walter,Witness,Recipient,Provost,825,1165-1173
+"Alfwin, brother of Walter the cook","Walter, the marshal",Directed,witnesses,Alfwino,Walter,Witness,Recipient,,825,1165-1173
+"William I, Abbot of Reading",Osbert of Rotherwick,Directed,grants to,William I,Osbert,Grantor,Recipient,Abbot,826,1165-1173
+Robert of Waltham,"William I, Abbot of Reading",Directed,witnesses,Robert,William I,Witness,Grantor,,826,1165-1173
+Ralph of Bolney,"William I, Abbot of Reading",Directed,witnesses,Radulfo,William I,Witness,Grantor,,826,1165-1173
+William of Waltham,"William I, Abbot of Reading",Directed,witnesses,Willelm,William I,Witness,Grantor,,826,1165-1173
+"Simon, the steward","William I, Abbot of Reading",Directed,witnesses,Simon,William I,Witness,Grantor,Steward,826,1165-1173
+"Ralph, the steward","William I, Abbot of Reading",Directed,witnesses,Radulfo,William I,Witness,Grantor,Steward,826,1165-1173
+"Peter, the clerk","William I, Abbot of Reading",Directed,witnesses,Petro,William I,Witness,Grantor,Cleric/Priest,826,1165-1173
+"Robert, the chamberlain","William I, Abbot of Reading",Directed,witnesses,Robert,William I,Witness,Grantor,Chamberlin,826,1165-1173
+Robert of Wallingford,"William I, Abbot of Reading",Directed,witnesses,Robert,William I,Witness,Grantor,,826,1165-1173
+Warin preposito,"William I, Abbot of Reading",Directed,witnesses,Warin,William I,Witness,Grantor,Provost,826,1165-1173
+Geoffrey preposito,"William I, Abbot of Reading",Directed,witnesses,Gaufredus,William I,Witness,Grantor,Provost,826,1165-1173
+Robert of Waltham,Osbert of Rotherwick,Directed,witnesses,Robert,Osbert,Witness,Recipient,,826,1165-1173
+Ralph of Bolney,Osbert of Rotherwick,Directed,witnesses,Radulfo,Osbert,Witness,Recipient,,826,1165-1173
+William of Waltham,Osbert of Rotherwick,Directed,witnesses,Willelm,Osbert,Witness,Recipient,,826,1165-1173
+"Simon, the steward",Osbert of Rotherwick,Directed,witnesses,Simon,Osbert,Witness,Recipient,Steward,826,1165-1173
+"Ralph, the steward",Osbert of Rotherwick,Directed,witnesses,Radulfo,Osbert,Witness,Recipient,Steward,826,1165-1173
+"Peter, the clerk",Osbert of Rotherwick,Directed,witnesses,Petro,Osbert,Witness,Recipient,Cleric/Priest,826,1165-1173
+"Robert, the chamberlain",Osbert of Rotherwick,Directed,witnesses,Robert,Osbert,Witness,Recipient,Chamberlin,826,1165-1173
+Robert of Wallingford,Osbert of Rotherwick,Directed,witnesses,Robert,Osbert,Witness,Recipient,,826,1165-1173
+Warin preposito,Osbert of Rotherwick,Directed,witnesses,Warin,Osbert,Witness,Recipient,Provost,826,1165-1173
+Geoffrey preposito,Osbert of Rotherwick,Directed,witnesses,Gaufredus,Osbert,Witness,Recipient,Provost,826,1165-1173
+"William I, Abbot of Reading","Geoffrey, the clerk",Directed,leases to,William I,Geoffrey,Grantor,Recipient,Abbot,827,1165-1173
+Master Gilbert,"William I, Abbot of Reading",Directed,witnesses,Gilbert,William I,Witness,Grantor,Teacher,827,1165-1173
+Ralph of Bolney,"William I, Abbot of Reading",Directed,witnesses,Radulfo de Bulehuda,William I,Witness,Grantor,,827,1165-1173
+"Simon, the steward","William I, Abbot of Reading",Directed,witnesses,Simone,William I,Witness,Grantor,Steward,827,1165-1173
+"Ralph, the steward","William I, Abbot of Reading",Directed,witnesses,Radulfo,William I,Witness,Grantor,Steward,827,1165-1173
+"Robert, the chamberlain","William I, Abbot of Reading",Directed,witnesses,Roberto,William I,Witness,Grantor,Chamberlin,827,1165-1173
+Reginald Lamb,"William I, Abbot of Reading",Directed,witnesses,Reginald Lamb,William I,Witness,Grantor,,827,1165-1173
+Warin preposito,"William I, Abbot of Reading",Directed,witnesses,Warino,William I,Witness,Grantor,Provost,827,1165-1173
+Walter of Oxford,"William I, Abbot of Reading",Directed,witnesses,Walter de Oxenford,William I,Witness,Grantor,,827,1165-1173
+Gilbert super Pontem,"William I, Abbot of Reading",Directed,witnesses,Gilbert super pontem,William I,Witness,Grantor,,827,1165-1173
+William Bevin,"William I, Abbot of Reading",Directed,witnesses,Willelmo Bevyn,William I,Witness,Grantor,,827,1165-1173
+"Daniel, the clerk","William I, Abbot of Reading",Directed,witnesses,Daniele,William I,Witness,Grantor,Cleric/Priest,827,1165-1173
+Ralph Cepernail,"William I, Abbot of Reading",Directed,witnesses,Radulfo Cepernail,William I,Witness,Grantor,,827,1165-1173
+"Walter, the cook","William I, Abbot of Reading",Directed,witnesses,Walter,William I,Witness,Grantor,Cook,827,1165-1173
+"Walter, son of Aldwin Wille","William I, Abbot of Reading",Directed,witnesses,Walter,William I,Witness,Grantor,,827,1165-1173
+Master Gilbert,"Geoffrey, the clerk",Directed,witnesses,Gilbert,Geoffrey,Witness,Recipient,Teacher,827,1165-1173
+Ralph of Bolney,"Geoffrey, the clerk",Directed,witnesses,Radulfo,Geoffrey,Witness,Recipient,,827,1165-1173
+"Simon, the steward","Geoffrey, the clerk",Directed,witnesses,Simone,Geoffrey,Witness,Recipient,Steward,827,1165-1173
+"Ralph, the steward","Geoffrey, the clerk",Directed,witnesses,Radulfo,Geoffrey,Witness,Recipient,Steward,827,1165-1173
+"Robert, the chamberlain","Geoffrey, the clerk",Directed,witnesses,Roberto,Geoffrey,Witness,Recipient,Chamberlin,827,1165-1173
+Reginald Lamb,"Geoffrey, the clerk",Directed,witnesses,Reginald,Geoffrey,Witness,Recipient,,827,1165-1173
+Warin preposito,"Geoffrey, the clerk",Directed,witnesses,Warino,Geoffrey,Witness,Recipient,Provost,827,1165-1173
+Walter of Oxford,"Geoffrey, the clerk",Directed,witnesses,Walter,Geoffrey,Witness,Recipient,,827,1165-1173
+Gilbert super Pontem,"Geoffrey, the clerk",Directed,witnesses,Gilbert,Geoffrey,Witness,Recipient,,827,1165-1173
+William Bevin,"Geoffrey, the clerk",Directed,witnesses,Willelmo,Geoffrey,Witness,Recipient,,827,1165-1173
+"Daniel, the clerk","Geoffrey, the clerk",Directed,witnesses,Daniele,Geoffrey,Witness,Recipient,Cleric/Priest,827,1165-1173
+Ralph Cepernail,"Geoffrey, the clerk",Directed,witnesses,Radulfo,Geoffrey,Witness,Recipient,,827,1165-1173
+"Walter, the cook","Geoffrey, the clerk",Directed,witnesses,Walter,Geoffrey,Witness,Recipient,Cook,827,1165-1173
+"Walter, son of Aldwin Wille","Geoffrey, the clerk",Directed,witnesses,Walter,Geoffrey,Witness,Recipient,,827,1165-1173
+"William I, Abbot of Reading","Rannulf, son of Tomus",Directed,leases to,William I,Rannulf,Grantor,Recipient,Abbot,828,1165-1173
+"Rannulf, son of Tomus",Tomus,Directed,related to,Rannulf,Tomus,Son,Father,,828,1165-1173
+"Joseph, Abbot of Reading",William of Lincoln,Directed,grants to,Joseph,William of Lincoln,Grantor,Recipient,Abbot,829,1173-1186
+"Joseph, Abbot of Reading","Adam, the clerk of Essendene",Directed,leases to,Joseph,Adam,Grantor,Recipient,Abbot,830,1173-1186
+"Hervey, the priest","Joseph, Abbot of Reading",Directed,witnesses,Herveo,Joseph,Witness,Grantor,Priest (presbitero),830,1173-1186
+"Peter, the clerk","Joseph, Abbot of Reading",Directed,witnesses,Petro,Joseph,Witness,Grantor,Cleric/Priest,830,1173-1186
+Geoffrey preposito,"Joseph, Abbot of Reading",Directed,witnesses,Gaufredo,Joseph,Witness,Grantor,Provost,830,1173-1186
+William Bevin,"Joseph, Abbot of Reading",Directed,witnesses,Willelmo Bevyn,Joseph,Witness,Grantor,,830,1173-1186
+"William, the steward","Joseph, Abbot of Reading",Directed,witnesses,Willelmo,Joseph,Witness,Grantor,Steward (dispensator),830,1173-1186
+"Peter, the butler","Joseph, Abbot of Reading",Directed,witnesses,Petro,Joseph,Witness,Grantor,Cup-bearer,830,1173-1186
+"Henry, brother of Walter","Joseph, Abbot of Reading",Directed,witnesses,Henry,Joseph,Witness,Grantor,,830,1173-1186
+"John, grandson of Adam","Joseph, Abbot of Reading",Directed,witnesses,John,Joseph,Witness,Grantor,Grandson (nepote),830,1173-1186
+"Hervey, the priest","Adam, the clerk of Essendene",Directed,witnesses,Herveo,Adam,Witness,Recipient,,830,1173-1186
+"Peter, the clerk","Adam, the clerk of Essendene",Directed,witnesses,Petro,Adam,Witness,Recipient,Cleric/Priest,830,1173-1186
+Geoffrey preposito,"Adam, the clerk of Essendene",Directed,witnesses,Gaufredo,Adam,Witness,Recipient,Provost,830,1173-1186
+William Bevin,"Adam, the clerk of Essendene",Directed,witnesses,Willelmo Bevyn,Adam,Witness,Recipient,,830,1173-1186
+"William, the steward","Adam, the clerk of Essendene",Directed,witnesses,Willelmo,Adam,Witness,Recipient,Manager,830,1173-1186
+"Peter, the butler","Adam, the clerk of Essendene",Directed,witnesses,Petro,Adam,Witness,Recipient,Cup-bearer,830,1173-1186
+"Henry, brother of Walter","Adam, the clerk of Essendene",Directed,witnesses,Henry,Adam,Witness,Recipient,,830,1173-1186
+"John, grandson of Adam","Adam, the clerk of Essendene",Directed,witnesses,John,Adam,Witness,Recipient,,830,1173-1186
+"Joseph, Abbot of Reading","William, son of Robert of Reading",Directed,leases to,Joseph,William,Grantor,Recipient,,831,1173-1186
+"Fulcred, the vitner","Joseph, Abbot of Reading",Directed,witnesses,Fulcredo,Joseph,Witness,Grantor,Vinitore,831,1173-1186
+"Ralph, the steward","Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,831,1173-1186
+Osbert of Maidenhatch,"Joseph, Abbot of Reading",Directed,witnesses,Osbert,Joseph,Witness,Grantor,,831,1173-1186
+Ralph of Stanford,"Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,831,1173-1186
+Master W.,"Joseph, Abbot of Reading",Directed,witnesses,Master,Joseph,Witness,Grantor,,831,1173-1186
+Warin Wafree,"Joseph, Abbot of Reading",Directed,witnesses,Warino,Joseph,Witness,Grantor,,831,1173-1186
+Roger pictore,"Joseph, Abbot of Reading",Directed,witnesses,Roger,Joseph,Witness,Grantor,Pictore,831,1173-1186
+"Walter, the cook","Joseph, Abbot of Reading",Directed,witnesses,Walter,Joseph,Witness,Grantor,,831,1173-1186
+"Hugo, nephew (grandson) of Lambert the chamberlain","Joseph, Abbot of Reading",Directed,witnesses,Hugo,Joseph,Witness,Grantor,Nepote,831,1173-1186
+"Hubert, nephew (grandson) of Hugh of Sulham","Joseph, Abbot of Reading",Directed,witnesses,Hubert,Joseph,Witness,Grantor,Nepote,831,1173-1186
+Gilbert latore,"Joseph, Abbot of Reading",Directed,witnesses,Gilbert,Joseph,Witness,Grantor,,831,1173-1186
+Warin preposito,"Joseph, Abbot of Reading",Directed,witnesses,Warin,Joseph,Witness,Grantor,,831,1173-1186
+"Hamo, the scribe","Joseph, Abbot of Reading",Directed,witnesses,Hamone,Joseph,Witness,Grantor,Scriptore,831,1173-1186
+"Fulcred, the vitner","William, son of Robert of Reading",Directed,witnesses,Fulcredo,William,Witness,Recipient,,831,1173-1186
+"Ralph, the steward","William, son of Robert of Reading",Directed,witnesses,Radulfo,William,Witness,Recipient,,831,1173-1186
+Osbert of Maidenhatch,"William, son of Robert of Reading",Directed,witnesses,Osbert,William,Witness,Recipient,,831,1173-1186
+Ralph of Stanford,"William, son of Robert of Reading",Directed,witnesses,Radulfo,William,Witness,Recipient,,831,1173-1186
+Master W.,"William, son of Robert of Reading",Directed,witnesses,Master,William,Witness,Recipient,,831,1173-1186
+Warin Wafree,"William, son of Robert of Reading",Directed,witnesses,Warino,William,Witness,Recipient,,831,1173-1186
+Roger pictore,"William, son of Robert of Reading",Directed,witnesses,Roger,William,Witness,Recipient,,831,1173-1186
+"Walter, the cook","William, son of Robert of Reading",Directed,witnesses,Walter,William,Witness,Recipient,,831,1173-1186
+"Hugo, nephew (grandson) of Lambert the chamberlain","William, son of Robert of Reading",Directed,witnesses,Hugo,William,Witness,Recipient,,831,1173-1186
+"Hubert, nephew (grandson) of Hugh of Sulham","William, son of Robert of Reading",Directed,witnesses,Hubert,William,Witness,Recipient,,831,1173-1186
+Gilbert latore,"William, son of Robert of Reading",Directed,witnesses,Gilbert,William,Witness,Recipient,,831,1173-1186
+Warin preposito,"William, son of Robert of Reading",Directed,witnesses,Warin,William,Witness,Recipient,,831,1173-1186
+"Hamo, the scribe","William, son of Robert of Reading",Directed,witnesses,Hamone,William,Witness,Recipient,,831,1173-1186
+"Joseph, Abbot of Reading",Durand of the king's chapel,Directed,grants to,Joseph,Durand,Grantor,Recipient,,832,1173-1186
+Walter Marshal,"Joseph, Abbot of Reading",Directed,requests of,Walter,Joseph,Requestor,Requestee,,832,1173-1186
+"Geoffrey, clerk of Bix","Joseph, Abbot of Reading",Directed,witnesses,Gaufredo,Joseph,Witness,Grantor,,832,1173-1186
+Adam of Benham,"Joseph, Abbot of Reading",Directed,witnesses,Adam,Joseph,Witness,Grantor,,832,1173-1186
+William Bevin,"Joseph, Abbot of Reading",Directed,witnesses,Willelmo,Joseph,Witness,Grantor,,832,1173-1186
+"Geoffrey, clerk of Reading","Joseph, Abbot of Reading",Directed,witnesses,Galfredo,Joseph,Witness,Grantor,,832,1173-1186
+"Raymond, son of Roger","Joseph, Abbot of Reading",Directed,witnesses,Remundo,Joseph,Witness,Grantor,,832,1173-1186
+Walter of Oxford,"Joseph, Abbot of Reading",Directed,witnesses,Walter,Joseph,Witness,Grantor,,832,1173-1186
+Walter Furmache,"Joseph, Abbot of Reading",Directed,witnesses,Walter,Joseph,Witness,Grantor,,832,1173-1186
+William Furmache,"Joseph, Abbot of Reading",Directed,witnesses,Willelm,Joseph,Witness,Grantor,,832,1173-1186
+Payn Vachell,"Joseph, Abbot of Reading",Directed,witnesses,Pagano,Joseph,Witness,Grantor,,832,1173-1186
+Ralph Purcell,"Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,832,1173-1186
+William Boistard,"Joseph, Abbot of Reading",Directed,witnesses,Willelmo,Joseph,Witness,Grantor,,832,1173-1186
+"Geoffrey, clerk of Bix",Durand of the king's chapel,Directed,witnesses,Gaufredo,Durand,Witness,Recipient,,832,1173-1186
+Adam of Benham,Durand of the king's chapel,Directed,witnesses,Adam,Durand,Witness,Recipient,,832,1173-1186
+William Bevin,Durand of the king's chapel,Directed,witnesses,Willelmo,Durand,Witness,Recipient,,832,1173-1186
+"Geoffrey, clerk of Reading",Durand of the king's chapel,Directed,witnesses,Galfredo,Durand,Witness,Recipient,,832,1173-1186
+"Raymond, son of Roger",Durand of the king's chapel,Directed,witnesses,Remundo,Durand,Witness,Recipient,,832,1173-1186
+Walter of Oxford,Durand of the king's chapel,Directed,witnesses,Walter,Durand,Witness,Recipient,,832,1173-1186
+Walter Furmache,Durand of the king's chapel,Directed,witnesses,Walter,Durand,Witness,Recipient,,832,1173-1186
+William Furmache,Durand of the king's chapel,Directed,witnesses,Willelm,Durand,Witness,Recipient,,832,1173-1186
+Payn Vachell,Durand of the king's chapel,Directed,witnesses,Pagano,Durand,Witness,Recipient,,832,1173-1186
+Ralph Purcell,Durand of the king's chapel,Directed,witnesses,Radulfo,Durand,Witness,Recipient,,832,1173-1186
+William Boistard,Durand of the king's chapel,Directed,witnesses,Willelmo,Durand,Witness,Recipient,,832,1173-1186
+"Joseph, Abbot of Reading",Durand of the king's chapel,Directed,leases to,Joseph,Durand,Grantor,Recipient,,833,1173-1186
+Geoffrey of Bix,"Joseph, Abbot of Reading",Directed,witnesses,Gaufred,Joseph,Witness,Grantor,,833,1173-1186
+Osbert of Maidenhatch,"Joseph, Abbot of Reading",Directed,witnesses,Osbert,Joseph,Witness,Grantor,,833,1173-1186
+Ralph of Caversham,"Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,833,1173-1186
+Alexander of Blebury,"Joseph, Abbot of Reading",Directed,witnesses,Alexandro,Joseph,Witness,Grantor,,833,1173-1186
+Walter of Essindine,"Joseph, Abbot of Reading",Directed,witnesses,Walyero,Joseph,Witness,Grantor,,833,1173-1186
+Hubert of Clere,"Joseph, Abbot of Reading",Directed,witnesses,Huberto,Joseph,Witness,Grantor,,833,1173-1186
+Ralph Purcell,"Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,833,1173-1186
+"Balwin, the squire","Joseph, Abbot of Reading",Directed,witnesses,Badwino,Joseph,Witness,Grantor,Amerigero,833,1173-1186
+Walter of Constanc',"Joseph, Abbot of Reading",Directed,witnesses,Waltero,Joseph,Witness,Grantor,,833,1173-1186
+"Nicholas, the chaplain","Joseph, Abbot of Reading",Directed,witnesses,Nicholao,Joseph,Witness,Grantor,Capellano,833,1173-1186
+Richard Boistard,"Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,,833,1173-1186
+Walter of Oxford,"Joseph, Abbot of Reading",Directed,witnesses,Waltero,Joseph,Witness,Grantor,,833,1173-1186
+William Bevin,"Joseph, Abbot of Reading",Directed,witnesses,Willelmo,Joseph,Witness,Grantor,,833,1173-1186
+Ralph of Oxford,"Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,,833,1173-1186
+"Nicholas, son of Ralph","Joseph, Abbot of Reading",Directed,witnesses,Nicholao,Joseph,Witness,Grantor,,833,1173-1186
+Hamo of Reading,"Joseph, Abbot of Reading",Directed,witnesses,Hamone,Joseph,Witness,Grantor,,833,1173-1186
+Geoffrey of Bix,Durand of the king's chapel,Directed,witnesses,Gaufred,Durand,Witness,Recipient,,833,1173-1186
+Osbert of Maidenhatch,Durand of the king's chapel,Directed,witnesses,Osbert,Durand,Witness,Recipient,,833,1173-1186
+Ralph of Caversham,Durand of the king's chapel,Directed,witnesses,Radulfo,Durand,Witness,Recipient,,833,1173-1186
+Alexander of Blebury,Durand of the king's chapel,Directed,witnesses,Alexandro,Durand,Witness,Recipient,,833,1173-1186
+Walter of Essindine,Durand of the king's chapel,Directed,witnesses,Walyero,Durand,Witness,Recipient,,833,1173-1186
+Hubert of Clere,Durand of the king's chapel,Directed,witnesses,Huberto,Durand,Witness,Recipient,,833,1173-1186
+Ralph Purcell,Durand of the king's chapel,Directed,witnesses,Radulfo,Durand,Witness,Recipient,,833,1173-1186
+"Balwin, the squire",Durand of the king's chapel,Directed,witnesses,Badwino,Durand,Witness,Recipient,,833,1173-1186
+Walter of Constanc',Durand of the king's chapel,Directed,witnesses,Waltero,Durand,Witness,Recipient,,833,1173-1186
+"Nicholas, the chaplain",Durand of the king's chapel,Directed,witnesses,Nicholao,Durand,Witness,Recipient,,833,1173-1186
+Richard Boistard,Durand of the king's chapel,Directed,witnesses,Ricardo,Durand,Witness,Recipient,,833,1173-1186
+Walter of Oxford,Durand of the king's chapel,Directed,witnesses,Waltero,Durand,Witness,Recipient,,833,1173-1186
+William Bevin,Durand of the king's chapel,Directed,witnesses,Willelmo,Durand,Witness,Recipient,,833,1173-1186
+Ralph of Oxford,Durand of the king's chapel,Directed,witnesses,Radulfo,Durand,Witness,Recipient,,833,1173-1186
+"Nicholas, son of Ralph",Durand of the king's chapel,Directed,witnesses,Nicholao,Durand,Witness,Recipient,,833,1173-1186
+Hamo of Reading,Durand of the king's chapel,Directed,witnesses,Hamone,Durand,Witness,Recipient,,833,1173-1186
+Ralph Purcell,"Balwin, the squire",Directed,works for,Radulfo Purcel,Badwino,Witness,Squire,,833,1173-1186
+"Joseph, Abbot of Reading",Ralph Purcell,Directed,leases to,Joseph,Ralph Purcel,Grantor,Recipient,Abbot,834,1173-1186
+"Edward, prior of Reading","Joseph, Abbot of Reading",Directed,witnesses,Edward,Joseph,Witness,Grantor,Prior,834,1173-1186
+"Geoffrey, precentor of Reading","Joseph, Abbot of Reading",Directed,witnesses,Gaufredo,Joseph,Witness,Grantor,,834,1173-1186
+Robert Partes,"Joseph, Abbot of Reading",Directed,witnesses,Roberto,Joseph,Witness,Grantor,Monk of Reading and Poet,834,1173-1186
+Geoffrey of Bix,"Joseph, Abbot of Reading",Directed,witnesses,Gaufred,Joseph,Witness,Grantor,,834,1173-1186
+"Ralph, the steward","Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,Steward (dapifer),834,1173-1186
+"Raymond, son of Ralph the steward","Joseph, Abbot of Reading",Directed,witnesses,Remundo,Joseph,Witness,Grantor,,834,1173-1186
+Reginald of Sulham,"Joseph, Abbot of Reading",Directed,witnesses,Reinaldo,Joseph,Witness,Grantor,,834,1173-1186
+Richard of Oakley,"Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,,834,1173-1186
+Hubert of Clere,"Joseph, Abbot of Reading",Directed,witnesses,Huberto,Joseph,Witness,Grantor,,834,1173-1186
+"Geoffrey, the steward","Joseph, Abbot of Reading",Directed,witnesses,Gaufrido,Joseph,Witness,Grantor,Cup-bearer (pincerna),834,1173-1186
+"Edward, prior of Reading",Ralph Purcell,Directed,witnesses,Edward,Ralph Purcel,Witness,Recipient,Prior,834,1173-1186
+"Geoffrey, precentor of Reading",Ralph Purcell,Directed,witnesses,Gaufredo,Ralph Purcel,Witness,Recipient,,834,1173-1186
+Robert Partes,Ralph Purcell,Directed,witnesses,Roberto,Ralph Purcel,Witness,Recipient,Monk,834,1173-1186
+Geoffrey of Bix,Ralph Purcell,Directed,witnesses,Gaufred,Ralph Purcel,Witness,Recipient,,834,1173-1186
+"Ralph, the steward",Ralph Purcell,Directed,witnesses,Radulfo,Ralph Purcel,Witness,Recipient,Steward (dapifer),834,1173-1186
+"Raymond, son of Ralph the steward",Ralph Purcell,Directed,witnesses,Remundo,Ralph Purcel,Witness,Recipient,,834,1173-1186
+Reginald of Sulham,Ralph Purcell,Directed,witnesses,Reinaldo,Ralph Purcel,Witness,Recipient,,834,1173-1186
+Richard of Oakley,Ralph Purcell,Directed,witnesses,Ricardo,Ralph Purcel,Witness,Recipient,,834,1173-1186
+Hubert of Clere,Ralph Purcell,Directed,witnesses,Huberto,Ralph Purcel,Witness,Recipient,,834,1173-1186
+"Geoffrey, the steward",Ralph Purcell,Directed,witnesses,Gaufrido,Ralph Purcel,Witness,Recipient,Cup-bearer (pincerna),834,1173-1186
+"Joseph, Abbot of Reading",Ralph Purcell,Directed,leases to,Joseph,Ralph Purcel,Grantor,Recipient,Abbot,835,1173-1186
+"Edward, prior of Reading","Joseph, Abbot of Reading",Directed,witnesses,Edward,Joseph,Witness,Grantor,Prior,835,1173-1186
+"Geoffrey, precentor of Reading","Joseph, Abbot of Reading",Directed,witnesses,Gaufredo,Joseph,Witness,Grantor,,835,1173-1186
+Robert Partes,"Joseph, Abbot of Reading",Directed,witnesses,Roberto,Joseph,Witness,Grantor,Monk,835,1173-1186
+Geoffrey of Bix,"Joseph, Abbot of Reading",Directed,witnesses,Gaufred,Joseph,Witness,Grantor,,835,1173-1186
+"Ralph, the steward","Joseph, Abbot of Reading",Directed,witnesses,Radulfo,Joseph,Witness,Grantor,Steward (dapifer),835,1173-1186
+"Raymond, son of Ralph the steward","Joseph, Abbot of Reading",Directed,witnesses,Remundo,Joseph,Witness,Grantor,,835,1173-1186
+Reginald of Sulham,"Joseph, Abbot of Reading",Directed,witnesses,Reinaldo,Joseph,Witness,Grantor,,835,1173-1186
+Richard of Oakley,"Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,,835,1173-1186
+Hubert of Clere,"Joseph, Abbot of Reading",Directed,witnesses,Huberto,Joseph,Witness,Grantor,,835,1173-1186
+"Geoffrey, the steward","Joseph, Abbot of Reading",Directed,witnesses,Gaufrido,Joseph,Witness,Grantor,Cup-bearer (pincerna),835,1173-1186
+"Edward, prior of Reading",Ralph Purcell,Directed,witnesses,Edward,Ralph Purcel,Witness,Recipient,Prior,835,1173-1186
+"Geoffrey, precentor of Reading",Ralph Purcell,Directed,witnesses,Gaufredo,Ralph Purcel,Witness,Recipient,,835,1173-1186
+Robert Partes,Ralph Purcell,Directed,witnesses,Roberto,Ralph Purcel,Witness,Recipient,Monk,835,1173-1186
+Geoffrey of Bix,Ralph Purcell,Directed,witnesses,Gaufred,Ralph Purcel,Witness,Recipient,,835,1173-1186
+"Ralph, the steward",Ralph Purcell,Directed,witnesses,Radulfo,Ralph Purcel,Witness,Recipient,Steward (dapifer),835,1173-1186
+"Raymond, son of Ralph the steward",Ralph Purcell,Directed,witnesses,Remundo,Ralph Purcel,Witness,Recipient,,835,1173-1186
+Reginald of Sulham,Ralph Purcell,Directed,witnesses,Reinaldo,Ralph Purcel,Witness,Recipient,,835,1173-1186
+Richard of Oakley,Ralph Purcell,Directed,witnesses,Ricardo,Ralph Purcel,Witness,Recipient,,835,1173-1186
+Hubert of Clere,Ralph Purcell,Directed,witnesses,Huberto,Ralph Purcel,Witness,Recipient,,835,1173-1186
+"Geoffrey, the steward",Ralph Purcell,Directed,witnesses,Gaufrido,Ralph Purcel,Witness,Recipient,Cup-bearer (pincerna),835,1173-1186
+"Joseph, Abbot of Reading",Adam of Earley,Directed,leases to,Joseph,Adam of Earley,Grantor,Recipient,Abbot,836,1173-1186
+John de la Rivera,"Joseph, Abbot of Reading",Directed,witnesses,Johanne,Joseph,Witness,Grantor,,836,1173-1186
+"Gerold, son of John de la Rivera","Joseph, Abbot of Reading",Directed,witnesses,Geroldo,Joseph,Witness,Grantor,,836,1173-1186
+Azo of Sonning,"Joseph, Abbot of Reading",Directed,witnesses,Azone,Joseph,Witness,Grantor,,836,1173-1186
+"Richard, step-son of Azo of Sonning","Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,stepson (privigno),836,1173-1186
+Hugh of Dunesden,"Joseph, Abbot of Reading",Directed,witnesses,Hugone,Joseph,Witness,Grantor,,836,1173-1186
+"Richard, son of Hugh of Dunesden","Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,,836,1173-1186
+Robert of Waltham,"Joseph, Abbot of Reading",Directed,witnesses,Robert,Joseph,Witness,Grantor,,836,1173-1186
+"William, son of Robert of Waltham","Joseph, Abbot of Reading",Directed,witnesses,Willilm,Joseph,Witness,Grantor,,836,1173-1186
+"Raymond, the merchant","Joseph, Abbot of Reading",Directed,witnesses,Remundo,Joseph,Witness,Grantor,merchant (mercatore),836,1173-1186
+John de la Rivera,Adam of Earley,Directed,witnesses,Johanne,Adam of Earley,Witness,Recipient,,836,1173-1186
+"Gerold, son of John de la Rivera",Adam of Earley,Directed,witnesses,Geroldo,Adam of Earley,Witness,Recipient,,836,1173-1186
+Azo of Sonning,Adam of Earley,Directed,witnesses,Azone,Adam of Earley,Witness,Recipient,,836,1173-1186
+"Richard, step-son of Azo of Sonning",Adam of Earley,Directed,witnesses,Ricardo,Adam of Earley,Witness,Recipient,stepson (privigno),836,1173-1186
+Hugh of Dunesden,Adam of Earley,Directed,witnesses,Hugone,Adam of Earley,Witness,Recipient,,836,1173-1186
+"Richard, son of Hugh of Dunesden",Adam of Earley,Directed,witnesses,Ricardo,Adam of Earley,Witness,Recipient,,836,1173-1186
+Robert of Waltham,Adam of Earley,Directed,witnesses,Robert,Adam of Earley,Witness,Recipient,,836,1173-1186
+"William, son of Robert of Waltham",Adam of Earley,Directed,witnesses,Willilm,Adam of Earley,Witness,Recipient,,836,1173-1186
+"Raymond, the merchant",Adam of Earley,Directed,witnesses,Remundo,Adam of Earley,Witness,Recipient,merchant (mercatore),836,1173-1186
+"Joseph, Abbot of Reading",Adam of Earley,Directed,leases to,Joseph,Adam of Earley,Grantor,Recipient,,837,1173-1186
+John de la Rivera,"Joseph, Abbot of Reading",Directed,witnesses,Johanne,Joseph,Witness,Grantor,,837,1173-1186
+"Gerold, son of John de la Rivera","Joseph, Abbot of Reading",Directed,witnesses,Geroldo,Joseph,Witness,Grantor,,837,1173-1186
+Azo of Sonning,"Joseph, Abbot of Reading",Directed,witnesses,Azone,Joseph,Witness,Grantor,,837,1173-1186
+"Richard, step-son of Azo of Sonning","Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,stepson (privigno),837,1173-1186
+Hugh of Dunesden,"Joseph, Abbot of Reading",Directed,witnesses,Hugone,Joseph,Witness,Grantor,,837,1173-1186
+"Richard, son of Hugh of Dunesden","Joseph, Abbot of Reading",Directed,witnesses,Ricardo,Joseph,Witness,Grantor,,837,1173-1186
+Robert of Waltham,"Joseph, Abbot of Reading",Directed,witnesses,Robert,Joseph,Witness,Grantor,,837,1173-1186
+"William, son of Robert of Waltham","Joseph, Abbot of Reading",Directed,witnesses,Willilm,Joseph,Witness,Grantor,,837,1173-1186
+"Raymond, the merchant","Joseph, Abbot of Reading",Directed,witnesses,Remundo,Joseph,Witness,Grantor,merchant (mercatore),837,1173-1186
+John de la Rivera,Adam of Earley,Directed,witnesses,Johanne,Adam of Earley,Witness,Recipient,,837,1173-1186
+"Gerold, son of John de la Rivera",Adam of Earley,Directed,witnesses,Geroldo,Adam of Earley,Witness,Recipient,,837,1173-1186
+Azo of Sonning,Adam of Earley,Directed,witnesses,Azone,Adam of Earley,Witness,Recipient,,837,1173-1186
+"Richard, step-son of Azo of Sonning",Adam of Earley,Directed,witnesses,Ricardo,Adam of Earley,Witness,Recipient,stepson (privigno),837,1173-1186
+Hugh of Dunesden,Adam of Earley,Directed,witnesses,Hugone,Adam of Earley,Witness,Recipient,,837,1173-1186
+"Richard, son of Hugh of Dunesden",Adam of Earley,Directed,witnesses,Ricardo,Adam of Earley,Witness,Recipient,,837,1173-1186
+Robert of Waltham,Adam of Earley,Directed,witnesses,Robert,Adam of Earley,Witness,Recipient,,837,1173-1186
+"William, son of Robert of Waltham",Adam of Earley,Directed,witnesses,Willilm,Adam of Earley,Witness,Recipient,,837,1173-1186
+"Raymond, the merchant",Adam of Earley,Directed,witnesses,Remundo,Adam of Earley,Witness,Recipient,merchant (mercatore),837,1186
+"Hugh IV, Abbot of Cluny","Hugh II, Abbot of Reading",Directed,confirms to,Hugh IV,Hugh II,Grantor,Recipient,Abbot of Cluny,220,1186-1199
+"Hugh II, Abbot of Reading",Sir Peter Blund,Directed,restores to,Hugh II,Peter Blund,Grantor,Recipient,Abbot,838,1186-1199
+"William, earl of Salisbury","Hugh II, Abbot of Reading",Directed,witnesses,Willelm,Abbot Hugh II of Reading,Witness,Grantor,,838,1186-1199
+Adam of Port,"Hugh II, Abbot of Reading",Directed,witnesses,Adam,Abbot Hugh II of Reading,Witness,Grantor,,838,1186-1199
+Roger of Saint Johns,"Hugh II, Abbot of Reading",Directed,witnesses,Roger,Abbot Hugh II of Reading,Witness,Grantor,,838,1186-1199
+Walter of Oxford,"Hugh II, Abbot of Reading",Directed,witnesses,Walter,Abbot Hugh II of Reading,Witness,Grantor,,838,1186-1199
+"Raymond, the merchant","Hugh II, Abbot of Reading",Directed,witnesses,Remundo,Abbot Hugh II of Reading,Witness,Grantor,merchant (mercatore),838,1186-1199
+Reginald Lamb,"Hugh II, Abbot of Reading",Directed,witnesses,Reginald,Abbot Hugh II of Reading,Witness,Grantor,,838,1186-1199
+"Alexander, the butler","Hugh II, Abbot of Reading",Directed,witnesses,Alexandro,Abbot Hugh II of Reading,Witness,Grantor,Cup-bearer (pincerna),838,1186-1199
+"William, earl of Salisbury",Sir Peter Blund,Directed,witnesses,Willelm,Sir Peter Blund,Witness,Recipient,,838,1186-1199
+Adam of Port,Sir Peter Blund,Directed,witnesses,Adam,Sir Peter Blund,Witness,Recipient,,838,1186-1199
+Roger of Saint Johns,Sir Peter Blund,Directed,witnesses,Roger,Sir Peter Blund,Witness,Recipient,,838,1186-1199
+Walter of Oxford,Sir Peter Blund,Directed,witnesses,Walter,Sir Peter Blund,Witness,Recipient,,838,1186-1199
+"Raymond, the merchant",Sir Peter Blund,Directed,witnesses,Remundo,Sir Peter Blund,Witness,Recipient,merchant (mercatore),838,1186-1199
+Reginald Lamb,Sir Peter Blund,Directed,witnesses,Reginald,Sir Peter Blund,Witness,Recipient,,838,1186-1199
+"Alexander, the butler",Sir Peter Blund,Directed,witnesses,Alexandro,Sir Peter Blund,Witness,Recipient,Cup-bearer (pincerna),838,1186-1213
+"""H"", Abbot of Reading",Benedict of York,Directed,gives to,"Abbot ""H""",Benedict of York,Grantor,Recipient,Abbot,839,1186-1213
+"Adam, prior of Reading","""H"", Abbot of Reading",Directed,witnesses,Adam,"Abbot ""H""",Witness,Grantor,,839,1186-1213
+"Simon, sub-prior of Reading","""H"", Abbot of Reading",Directed,witnesses,Simone,"Abbot ""H""",Witness,Grantor,,839,1186-1213
+Master Daniel,"""H"", Abbot of Reading",Directed,witnesses,Master,"Abbot ""H""",Witness,Grantor,,839,1186-1213
+Hugh of Mortimer,"""H"", Abbot of Reading",Directed,witnesses,Hugone,"Abbot ""H""",Witness,Grantor,,839,1186-1213
+"William, chaplain of Coley","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Chaplain (capellano),839,1186-1213
+Daniel Scot,"""H"", Abbot of Reading",Directed,witnesses,Daniele,"Abbot ""H""",Witness,Grantor,,839,1186-1213
+"Adam, prior of Reading",Benedict of York,Directed,witnesses,Adam,Benedict of York,Witness,Recipient,,839,1186-1213
+"Simon, sub-prior of Reading",Benedict of York,Directed,witnesses,Simone,Benedict of York,Witness,Recipient,,839,1186-1213
+Master Daniel,Benedict of York,Directed,witnesses,Master,Benedict of York,Witness,Recipient,,839,1186-1213
+Hugh of Mortimer,Benedict of York,Directed,witnesses,Hugone,Benedict of York,Witness,Recipient,,839,1186-1213
+"William, chaplain of Coley",Benedict of York,Directed,witnesses,Willelm,Benedict of York,Witness,Recipient,Chaplain (capellano),839,1186-1213
+Daniel Scot,Benedict of York,Directed,witnesses,Daniele,Benedict of York,Witness,Recipient,,839,1186-1213
+"""H"", Abbot of Reading","""R"", the carpenter",Directed,gives to,"Abbot ""H""","master ""R""",Grantor,Recipient,Abbot,840,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Walter of Bollyngeshull,"""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Raimundo,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alano,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Ralph Wille,"""H"", Abbot of Reading",Directed,witnesses,Radulfo,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Jordan Wille,"""H"", Abbot of Reading",Directed,witnesses,Jordan,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Hugh Maisent,"""H"", Abbot of Reading",Directed,witnesses,Hugone,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Roger of Coley,"""H"", Abbot of Reading",Directed,witnesses,Roger,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Payn Vachell,"""H"", Abbot of Reading",Directed,witnesses,Pagano,"Abbot ""H""",Witness,Grantor,,840,1186-1213
+Robert sellario,"""H"", Abbot of Reading",Directed,witnesses,Robert,"Abbot ""H""",Witness,Grantor,(sellario),840,1186-1213
+Walter of Oxford,"""R"", the carpenter",Directed,witnesses,Walter,"master ""R""",Witness,Recipient,,840,1186-1213
+Walter of Bollyngeshull,"""R"", the carpenter",Directed,witnesses,Walter,"master ""R""",Witness,Recipient,,840,1186-1213
+"Raymond, the merchant","""R"", the carpenter",Directed,witnesses,Raimundo,"master ""R""",Witness,Recipient,,840,1186-1213
+"Alan, brother of Raymond","""R"", the carpenter",Directed,witnesses,Alano,"master ""R""",Witness,Recipient,,840,1186-1213
+Ralph Wille,"""R"", the carpenter",Directed,witnesses,Radulfo,"master ""R""",Witness,Recipient,,840,1186-1213
+Jordan Wille,"""R"", the carpenter",Directed,witnesses,Jordan,"master ""R""",Witness,Recipient,,840,1186-1213
+Hugh Maisent,"""R"", the carpenter",Directed,witnesses,Hugone,"master ""R""",Witness,Recipient,,840,1186-1213
+Roger of Coley,"""R"", the carpenter",Directed,witnesses,Roger,"master ""R""",Witness,Recipient,,840,1186-1213
+Payn Vachell,"""R"", the carpenter",Directed,witnesses,Pagano,"master ""R""",Witness,Recipient,,840,1186-1213
+Robert sellario,"""R"", the carpenter",Directed,witnesses,Robert,"master ""R""",Witness,Recipient,(sellario),840,1186-1213
+"""H"", Abbot of Reading","Alan, brother of Raymond",Directed,leases to,"Abbot ""H""",Alan,Grantor,Recipient,Abbot,841,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Remundo,"Abbot ""H""",Witness,Grantor,merchant (mercatore),841,1186-1213
+Richard Wille,"""H"", Abbot of Reading",Directed,witnesses,Ricardo,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+Walter Wille,"""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+Ralph Wille,"""H"", Abbot of Reading",Directed,witnesses,Radulfo,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+Jordan Wille,"""H"", Abbot of Reading",Directed,witnesses,Jordan,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+Raher,"""H"", Abbot of Reading",Directed,witnesses,Raerio,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+"William, a child","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+William of Almonry,"""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,,841,1186-1213
+"Raymond, the merchant","Alan, brother of Raymond",Directed,witnesses,Remundo,Alan,Witness,Recipient,merchant (mercatore),841,1186-1213
+Richard Wille,"Alan, brother of Raymond",Directed,witnesses,Ricardo,Alan,Witness,Recipient,,841,1186-1213
+Walter Wille,"Alan, brother of Raymond",Directed,witnesses,Walter,Alan,Witness,Recipient,,841,1186-1213
+Ralph Wille,"Alan, brother of Raymond",Directed,witnesses,Radulfo,Alan,Witness,Recipient,,841,1186-1213
+Jordan Wille,"Alan, brother of Raymond",Directed,witnesses,Jordan,Alan,Witness,Recipient,,841,1186-1213
+Raher,"Alan, brother of Raymond",Directed,witnesses,Raerio,Alan,Witness,Recipient,,841,1186-1213
+"William, a child","Alan, brother of Raymond",Directed,witnesses,Willelm,Alan,Witness,Recipient,,841,1186-1213
+William of Almonry,"Alan, brother of Raymond",Directed,witnesses,Willelm,Alan,Witness,Recipient,,841,1186-1213
+"Alan, brother of Raymond",Christina,Directed,gives to,Alan,Christina,Grantor,Recipient,merchant (mercatore),841,1186-1213
+"""H"", Abbot of Reading","Nicholas, son of Henry the goldsmith",Directed,leases to,"Abbot ""H""",Nicholas,Grantor,Recipient,Abbot,842,1186-1213
+"Godard, the clerk","""H"", Abbot of Reading",Directed,witnesses,Gautero,"Abbot ""H""",Witness,Grantor,Cleric/Priest,842,1186-1213
+"Reginald, the steward","""H"", Abbot of Reading",Directed,witnesses,Reginald,"Abbot ""H""",Witness,Grantor,Senschal,842,1186-1213
+William Chamberlain,"""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Chamberlin (camberlano),842,1186-1213
+Osmund of Oakley,"""H"", Abbot of Reading",Directed,witnesses,Osmundo de Acleia,"Abbot ""H""",Witness,Grantor,,842,1186-1213
+"William, the butler","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Cup-bearer (pincerna),842,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Remundo,"Abbot ""H""",Witness,Grantor,,842,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alan,"Abbot ""H""",Witness,Grantor,,842,1186-1213
+Gilbert super Pontem,"""H"", Abbot of Reading",Directed,witnesses,Gilbert super pontem,"Abbot ""H""",Witness,Grantor,,842,1186-1213
+"Gilbert, son of Gilbert super Pontem","""H"", Abbot of Reading",Directed,witnesses,"Gilbert, Gilbert's son","Abbot ""H""",Witness,Grantor,,842,1186-1213
+Walter of Stokes,"""H"", Abbot of Reading",Directed,witnesses,Walter of Stokes,"Abbot ""H""",Witness,Grantor,,842,1186-1213
+"Godard, the clerk","Nicholas, son of Henry the goldsmith",Directed,witnesses,Gautero,Nicholas,Witness,Recipient,Cleric/Priest,842,1186-1213
+"Reginald, the steward","Nicholas, son of Henry the goldsmith",Directed,witnesses,Reginald,Nicholas,Witness,Recipient,Senschal,842,1186-1213
+William Chamberlain,"Nicholas, son of Henry the goldsmith",Directed,witnesses,Willelm,Nicholas,Witness,Recipient,Chamberlin (camberlano),842,1186-1213
+Osmund of Oakley,"Nicholas, son of Henry the goldsmith",Directed,witnesses,Osmundo de Acleia,Nicholas,Witness,Recipient,,842,1186-1213
+"William, the butler","Nicholas, son of Henry the goldsmith",Directed,witnesses,Willelm,Nicholas,Witness,Recipient,Cup-bearer (pincerna),842,1186-1213
+"Raymond, the merchant","Nicholas, son of Henry the goldsmith",Directed,witnesses,Remundo,Nicholas,Witness,Recipient,,842,1186-1213
+"Alan, brother of Raymond","Nicholas, son of Henry the goldsmith",Directed,witnesses,Alan,Nicholas,Witness,Recipient,,842,1186-1213
+Gilbert super Pontem,"Nicholas, son of Henry the goldsmith",Directed,witnesses,Gilbert super pontem,Nicholas,Witness,Recipient,,842,1186-1213
+"Gilbert, son of Gilbert super Pontem","Nicholas, son of Henry the goldsmith",Directed,witnesses,"Gilbert, Gilbert's son",Nicholas,Witness,Recipient,,842,1186-1213
+Walter of Stokes,"Nicholas, son of Henry the goldsmith",Directed,witnesses,Walter of Stokes,Nicholas,Witness,Recipient,,842,1186-1213
+"""H"", Abbot of Reading",William Chamberlain,Directed,gives to,"Abbot ""H""",William Chamberlain,Grantor,Recipient,Abbot,843,1186-1213
+William of Waltham,"""H"", Abbot of Reading",Directed,witnesses,Willelm de Waltham,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"Ernald, the marshal","""H"", Abbot of Reading",Directed,witnesses,Ernaldo the marshal,"Abbot ""H""",Witness,Grantor,Marshal (marescallo),843,1186-1213
+Raher,"""H"", Abbot of Reading",Directed,witnesses,Rahero,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"William, the butler","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Cup-bearer (pincerna),843,1186-1213
+"William, the steward","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Manager (dispensator),843,1186-1213
+Roger of Waltham,"""H"", Abbot of Reading",Directed,witnesses,Roger de Waltham,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"Lambert, the cook","""H"", Abbot of Reading",Directed,witnesses,Lambert,"Abbot ""H""",Witness,Grantor,cook,843,1186-1213
+"Achelmann, the cook","""H"", Abbot of Reading",Directed,witnesses,Achelmann,"Abbot ""H""",Witness,Grantor,cook,843,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Ramundo,"Abbot ""H""",Witness,Grantor,Merchant (mercatore),843,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alan,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,witnesses,Walter de Oxonia,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"Walter, son-in-law of Walter of Oxford","""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+Gilbert super Pontem,"""H"", Abbot of Reading",Directed,witnesses,Gilbert super pontem,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"Geoffrey, the clerk","""H"", Abbot of Reading",Directed,witnesses,Galfrido,"Abbot ""H""",Witness,Grantor,Clerk (clerico),843,1186-1213
+"Turgis, Geoffrey's son-in-law","""H"", Abbot of Reading",Directed,witnesses,Turgis,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+Edward Gentil,"""H"", Abbot of Reading",Directed,witnesses,Edward Gentil,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+Ralph Wille,"""H"", Abbot of Reading",Directed,witnesses,Radulfo Wille,"Abbot ""H""",Witness,Grantor,,843,1186-1213
+"Simon, the stable-keeper","""H"", Abbot of Reading",Directed,witnesses,Simon,"Abbot ""H""",Witness,Grantor,Stable-keeper (stabulario),843,1186-1213
+Walter Peg,"""H"", Abbot of Reading",Directed,witnesses,Walter Peg',"Abbot ""H""",Witness,Grantor,,843,1186-1213
+William of Waltham,William Chamberlain,Directed,witnesses,Willelm de Waltham,William Chamberlain,Witness,Recipient,,843,1186-1213
+"Ernald, the marshal",William Chamberlain,Directed,witnesses,Ernaldo the marshal,William Chamberlain,Witness,Recipient,Marshal (marescallo),843,1186-1213
+Raher,William Chamberlain,Directed,witnesses,Rahero,William Chamberlain,Witness,Recipient,,843,1186-1213
+"William, the butler",William Chamberlain,Directed,witnesses,Willelm,William Chamberlain,Witness,Recipient,Cup-bearer (pincerna),843,1186-1213
+"William, the steward",William Chamberlain,Directed,witnesses,Willelm,William Chamberlain,Witness,Recipient,Manager (dispensator),843,1186-1213
+Roger of Waltham,William Chamberlain,Directed,witnesses,Roger de Waltham,William Chamberlain,Witness,Recipient,,843,1186-1213
+"Lambert, the cook",William Chamberlain,Directed,witnesses,Lambert,William Chamberlain,Witness,Recipient,cook,843,1186-1213
+"Achelmann, the cook",William Chamberlain,Directed,witnesses,Achelmann,William Chamberlain,Witness,Recipient,cook,843,1186-1213
+"Raymond, the merchant",William Chamberlain,Directed,witnesses,Ramundo,William Chamberlain,Witness,Recipient,Merchant (mercatore),843,1186-1213
+"Alan, brother of Raymond",William Chamberlain,Directed,witnesses,Alan,William Chamberlain,Witness,Recipient,,843,1186-1213
+Walter of Oxford,William Chamberlain,Directed,witnesses,Walter de Oxonia,William Chamberlain,Witness,Recipient,,843,1186-1213
+"Walter, son-in-law of Walter of Oxford",William Chamberlain,Directed,witnesses,Walter,William Chamberlain,Witness,Recipient,,843,1186-1213
+Gilbert super Pontem,William Chamberlain,Directed,witnesses,Gilbert super pontem,William Chamberlain,Witness,Recipient,,843,1186-1213
+"Geoffrey, the clerk",William Chamberlain,Directed,witnesses,Galfrido,William Chamberlain,Witness,Recipient,Clerk (clerico),843,1186-1213
+"Turgis, Geoffrey's son-in-law",William Chamberlain,Directed,witnesses,Turgis,William Chamberlain,Witness,Recipient,,843,1186-1213
+Edward Gentil,William Chamberlain,Directed,witnesses,Edward Gentil,William Chamberlain,Witness,Recipient,,843,1186-1213
+Ralph Wille,William Chamberlain,Directed,witnesses,Radulfo Wille,William Chamberlain,Witness,Recipient,,843,1186-1213
+"Simon, the stable-keeper",William Chamberlain,Directed,witnesses,Simon,William Chamberlain,Witness,Recipient,Stable-keeper (stabulario),843,1186-1213
+Walter Peg,William Chamberlain,Directed,witnesses,Walter Peg',William Chamberlain,Witness,Recipient,,843,1186-1213
+"""H"", Abbot of Reading",William Chamberlain,Directed,leases to,"Abbot ""H""",William Chamberlain,Grantor,Recipient,Abbot,844,1186-1213
+"Godard, the clerk","""H"", Abbot of Reading",Directed,witnesses,Gautero,"Abbot ""H""",Witness,Grantor,Clerk (clerico),844,1186-1213
+"Reginald, the chamberlain","""H"", Abbot of Reading",Directed,witnesses,Reginald,"Abbot ""H""",Witness,Grantor,Chamberlain (camberlano),844,1186-1213
+"William, the butler","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Cup-bearer (pincerna),844,1186-1213
+"Lambert, the cook","""H"", Abbot of Reading",Directed,witnesses,Lambert,"Abbot ""H""",Witness,Grantor,Cook,844,1186-1213
+Archenbald,"""H"", Abbot of Reading",Directed,witnesses,Archenbaudo,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Osmund of Oakley,"""H"", Abbot of Reading",Directed,witnesses,Osmundo,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Simon, the stable-keeper","""H"", Abbot of Reading",Directed,witnesses,Simone,"Abbot ""H""",Witness,Grantor,Stable-keeper (stabulario),844,1186-1213
+William Crawe,"""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Achelmann, the cook","""H"", Abbot of Reading",Directed,witnesses,Alemann,"Abbot ""H""",Witness,Grantor,cook,844,1186-1213
+"John, the cook","""H"", Abbot of Reading",Directed,witnesses,Johanne,"Abbot ""H""",Witness,Grantor,cook,844,1186-1213
+Gilbert,"""H"", Abbot of Reading",Directed,witnesses,Gilbert,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Hamo, son of Walter of Oxford","""H"", Abbot of Reading",Directed,witnesses,Hamone,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Walter of Stokes,"""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Walter, son of Walter of Stokes","""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Ramundo,"Abbot ""H""",Witness,Grantor,Merchant (mercatore),844,1186-1213
+Gilbert,"""H"", Abbot of Reading",Directed,witnesses,Gilbert,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Martin,"""H"", Abbot of Reading",Directed,witnesses,Martin,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Hugh,"""H"", Abbot of Reading",Directed,witnesses,Hugone,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alan,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Ralph Wille,"""H"", Abbot of Reading",Directed,witnesses,Radulfo,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Gilbert Conpernays,"""H"", Abbot of Reading",Directed,witnesses,Gilbert,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Jordan Wille,"""H"", Abbot of Reading",Directed,witnesses,Jordan,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Jordan Conpernays,"""H"", Abbot of Reading",Directed,witnesses,Jordan,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+John of Cataine,"""H"", Abbot of Reading",Directed,witnesses,Johanne,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+Roger of the Chamber,"""H"", Abbot of Reading",Directed,witnesses,Roger,"Abbot ""H""",Witness,Grantor,,844,1186-1213
+"Godard, the clerk",William Chamberlain,Directed,witnesses,Gautero,William Chamberlain,Witness,Recipient,Clerk (clerico),844,1186-1213
+"Reginald, the chamberlain",William Chamberlain,Directed,witnesses,Reginald,William Chamberlain,Witness,Recipient,Chamberlain (camberlano),844,1186-1213
+"William, the butler",William Chamberlain,Directed,witnesses,Willelm,William Chamberlain,Witness,Recipient,Cup-bearer (pincerna),844,1186-1213
+"Lambert, the cook",William Chamberlain,Directed,witnesses,Lambert,William Chamberlain,Witness,Recipient,Cook,844,1186-1213
+Archenbald,William Chamberlain,Directed,witnesses,Archenbaudo,William Chamberlain,Witness,Recipient,,844,1186-1213
+Osmund of Oakley,William Chamberlain,Directed,witnesses,Osmundo,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Simon, the stable-keeper",William Chamberlain,Directed,witnesses,Simone,William Chamberlain,Witness,Recipient,Stable-keeper (stabulario),844,1186-1213
+William Crawe,William Chamberlain,Directed,witnesses,Willelm,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Achelmann, the cook",William Chamberlain,Directed,witnesses,Alemann,William Chamberlain,Witness,Recipient,cook,844,1186-1213
+"John, the cook",William Chamberlain,Directed,witnesses,Johanne,William Chamberlain,Witness,Recipient,cook,844,1186-1213
+Gilbert,William Chamberlain,Directed,witnesses,Gilbert,William Chamberlain,Witness,Recipient,,844,1186-1213
+Walter of Oxford,William Chamberlain,Directed,witnesses,Walter,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Hamo, son of Walter of Oxford",William Chamberlain,Directed,witnesses,Hamone,William Chamberlain,Witness,Recipient,,844,1186-1213
+Walter of Stokes,William Chamberlain,Directed,witnesses,Walter,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Walter, son of Walter of Stokes",William Chamberlain,Directed,witnesses,Walter,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Raymond, the merchant",William Chamberlain,Directed,witnesses,Ramundo,William Chamberlain,Witness,Recipient,Merchant (mercatore),844,1186-1213
+Gilbert,William Chamberlain,Directed,witnesses,Gilbert,William Chamberlain,Witness,Recipient,,844,1186-1213
+Martin,William Chamberlain,Directed,witnesses,Martin,William Chamberlain,Witness,Recipient,,844,1186-1213
+Hugh,William Chamberlain,Directed,witnesses,Hugone,William Chamberlain,Witness,Recipient,,844,1186-1213
+"Alan, brother of Raymond",William Chamberlain,Directed,witnesses,Alan,William Chamberlain,Witness,Recipient,,844,1186-1213
+Ralph Wille,William Chamberlain,Directed,witnesses,Radulfo,William Chamberlain,Witness,Recipient,,844,1186-1213
+Gilbert Conpernays,William Chamberlain,Directed,witnesses,Gilbert,William Chamberlain,Witness,Recipient,,844,1186-1213
+Jordan Wille,William Chamberlain,Directed,witnesses,Jordan,William Chamberlain,Witness,Recipient,,844,1186-1213
+Jordan Conpernays,William Chamberlain,Directed,witnesses,Jordan,William Chamberlain,Witness,Recipient,,844,1186-1213
+John of Cataine,William Chamberlain,Directed,witnesses,Johanne,William Chamberlain,Witness,Recipient,,844,1186-1213
+Roger of the Chamber,William Chamberlain,Directed,witnesses,Roger,William Chamberlain,Witness,Recipient,,844,1186-1213
+"""H"", Abbot of Reading",Godrey of Binfield,Directed,leases to,"Abbot ""H""",Godfrey of Binfield,Grantor,Recipient,,845,1186-1213
+William Chamberlain,"""H"", Abbot of Reading",Directed,witnesses,Willelm Chamberlain,"Abbot ""H""",Witness,Grantor,Chamberlain (camberlano),845,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Ramundo,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alan,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,witnesses,Walter de Oxonia,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+"Walter, son-in-law of Walter of Oxford","""H"", Abbot of Reading",Directed,witnesses,Walter,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+"Turgis, Geoffrey's son-in-law","""H"", Abbot of Reading",Directed,witnesses,Turgis,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+Edward Gentil,"""H"", Abbot of Reading",Directed,witnesses,Edward Gentil,"Abbot ""H""",Witness,Grantor,,845,1186-1213
+"Simon, the stable-keeper","""H"", Abbot of Reading",Directed,witnesses,Simone,"Abbot ""H""",Witness,Grantor,Stable-keeper (stabulario),845,1186-1213
+William Chamberlain,Godrey of Binfield,Directed,witnesses,Willelm Chamberlain,Godfrey of Binfield,Witness,Recipient,Chamberlain (camberlano),845,1186-1213
+"Raymond, the merchant",Godrey of Binfield,Directed,witnesses,Ramundo,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+"Alan, brother of Raymond",Godrey of Binfield,Directed,witnesses,Alan,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+Walter of Oxford,Godrey of Binfield,Directed,witnesses,Walter de Oxonia,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+"Walter, son-in-law of Walter of Oxford",Godrey of Binfield,Directed,witnesses,Walter,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+"Turgis, Geoffrey's son-in-law",Godrey of Binfield,Directed,witnesses,Turgis,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+Edward Gentil,Godrey of Binfield,Directed,witnesses,Edward Gentil,Godfrey of Binfield,Witness,Recipient,,845,1186-1213
+"Simon, the stable-keeper",Godrey of Binfield,Directed,witnesses,Simone,Godfrey of Binfield,Witness,Recipient,Stable-keeper (stabulario),845,1186-1213
+"""H"", Abbot of Reading",Osbert of Waltham,Directed,leases to,"Abbot ""H""",Osbert of Waltham,Grantor,Recipient,,846,1186-1213
+William of Waltham,"""H"", Abbot of Reading",Directed,witnesses,Willelm de Waltham,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Master Hamon,"""H"", Abbot of Reading",Directed,witnesses,Hamone,"Abbot ""H""",Witness,Grantor,Magistro,846,1186-1213
+Meuselmus of Bolney,"""H"", Abbot of Reading",Directed,witnesses,Meuselmo de Bulhud,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"Nicholas, brother of Meuselmus of Bolney","""H"", Abbot of Reading",Directed,witnesses,Nicholao,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Hugh of Shottesbrooke,"""H"", Abbot of Reading",Directed,witnesses,Hugone de Suloc,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"Robert, brother of Hugh of Shottesbrooke","""H"", Abbot of Reading",Directed,witnesses,Roberto,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Wyce of Shottesbrooke,"""H"", Abbot of Reading",Directed,witnesses,Wyce de Sulk,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"Godard, clerk of Leomenstria","""H"", Abbot of Reading",Directed,witnesses,Leomenstria,"Abbot ""H""",Witness,Grantor,Clerk,846,1186-1213
+William Chamberlain,"""H"", Abbot of Reading",Directed,witnesses,Chamberlain,"Abbot ""H""",Witness,Grantor,Chamberlain (camberlano),846,1186-1213
+"William, the steward","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Manager (dispensatore),846,1186-1213
+"Ralph, the janitor","""H"", Abbot of Reading",Directed,witnesses,Radulfo,"Abbot ""H""",Witness,Grantor,Janitor (ianitore),846,1186-1213
+"Lambert, the cook","""H"", Abbot of Reading",Directed,witnesses,Lambert,"Abbot ""H""",Witness,Grantor,cook,846,1186-1213
+Ernald Rufus,"""H"", Abbot of Reading",Directed,witnesses,Ernalldo Rufo,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"Raymond, the merchant","""H"", Abbot of Reading",Directed,witnesses,Ramundo,"Abbot ""H""",Witness,Grantor,Merchant (mercatore),846,1186-1213
+"Alan, brother of Raymond","""H"", Abbot of Reading",Directed,witnesses,Alan,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Ralph Wille,"""H"", Abbot of Reading",Directed,witnesses,Radulfo Wille,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Walter Wille,"""H"", Abbot of Reading",Directed,witnesses,Walter Wille,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,witnesses,Walter de Oxonia,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"William, the vitner","""H"", Abbot of Reading",Directed,witnesses,Willelm,"Abbot ""H""",Witness,Grantor,Winemaker (vinitore),846,1186-1213
+Hugh Maisent,"""H"", Abbot of Reading",Directed,witnesses,Hugone,"Abbot ""H""",Witness,Grantor,,846,1186-1213
+"Daniel, the clerk","""H"", Abbot of Reading",Directed,witnesses,Daniele,"Abbot ""H""",Witness,Grantor,Clerk (clerico),846,1186-1213
+"Hugh, the merchant","""H"", Abbot of Reading",Directed,witnesses,Hugone,"Abbot ""H""",Witness,Grantor,Merchant (mercatore),846,1186-1213
+William of Waltham,Osbert of Waltham,Directed,witnesses,Willelm de Waltham,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Master Hamon,Osbert of Waltham,Directed,witnesses,Hamone,Osbert of Waltham,Witness,Recipient,Magistro,846,1186-1213
+Meuselmus of Bolney,Osbert of Waltham,Directed,witnesses,Meuselmo de Bulhud,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"Nicholas, brother of Meuselmus of Bolney",Osbert of Waltham,Directed,witnesses,Nicholao,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Hugh of Shottesbrooke,Osbert of Waltham,Directed,witnesses,Hugone de Suloc,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"Robert, brother of Hugh of Shottesbrooke",Osbert of Waltham,Directed,witnesses,Roberto,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Wyce of Shottesbrooke,Osbert of Waltham,Directed,witnesses,Wyce de Sulk,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"Godard, clerk of Leomenstria",Osbert of Waltham,Directed,witnesses,Leomenstria,Osbert of Waltham,Witness,Recipient,Clerk,846,1186-1213
+William Chamberlain,Osbert of Waltham,Directed,witnesses,Chamberlain,Osbert of Waltham,Witness,Recipient,Chamberlain (camberlano),846,1186-1213
+"William, the steward",Osbert of Waltham,Directed,witnesses,Willelm,Osbert of Waltham,Witness,Recipient,Manager (dispensatore),846,1186-1213
+"Ralph, the janitor",Osbert of Waltham,Directed,witnesses,Radulfo,Osbert of Waltham,Witness,Recipient,Janitor (ianitore),846,1186-1213
+"Lambert, the cook",Osbert of Waltham,Directed,witnesses,Lambert,Osbert of Waltham,Witness,Recipient,cook,846,1186-1213
+Ernald Rufus,Osbert of Waltham,Directed,witnesses,Ernalldo Rufo,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"Raymond, the merchant",Osbert of Waltham,Directed,witnesses,Ramundo,Osbert of Waltham,Witness,Recipient,Merchant (mercatore),846,1186-1213
+"Alan, brother of Raymond",Osbert of Waltham,Directed,witnesses,Alan,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Ralph Wille,Osbert of Waltham,Directed,witnesses,Radulfo Wille,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Walter Wille,Osbert of Waltham,Directed,witnesses,Walter Wille,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+Walter of Oxford,Osbert of Waltham,Directed,witnesses,Walter de Oxonia,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"William, the vitner",Osbert of Waltham,Directed,witnesses,Willelm,Osbert of Waltham,Witness,Recipient,Winemaker (vinitore),846,1186-1213
+Hugh Maisent,Osbert of Waltham,Directed,witnesses,Hugone,Osbert of Waltham,Witness,Recipient,,846,1186-1213
+"Daniel, the clerk",Osbert of Waltham,Directed,witnesses,Daniele,Osbert of Waltham,Witness,Recipient,Clerk (clerico),846,1186-1213
+"Hugh, the merchant",Osbert of Waltham,Directed,witnesses,Hugone,Osbert of Waltham,Witness,Recipient,Merchant (mercatore),846,1186-1213
+Walter of Oxford,"""H"", Abbot of Reading",Directed,grants to,Walter of Oxford,"Abbot ""H""",Grantor,Recipient,,847,1193-1213
+Robert of Herewardsley,Reading Abbey,Directed,gives to,Robert,Reading,Grantor,Recipient,,1049,1193-1213
+William of Coley,Robert of Herewardsley,Directed,witnesses,Willelm,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+Gilbert of Felda,Robert of Herewardsley,Directed,witnesses,Gilberto,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+Walter of Oxford,Robert of Herewardsley,Directed,witnesses,Walter,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+Roger of Coley,Robert of Herewardsley,Directed,witnesses,Roger,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+Andrew of Wallingford,Robert of Herewardsley,Directed,witnesses,Andrea,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+Simon of Wallingford,Robert of Herewardsley,Directed,witnesses,Simone,Robert of Herewardsley,Witness,Grantor,,1049,1193-1213
+William of Coley,Reading Abbey,Directed,witnesses,Willelm,Reading Abbey,Witness,Recipient,,1049,1193-1213
+Gilbert of Felda,Reading Abbey,Directed,witnesses,Gilberto,Reading Abbey,Witness,Recipient,,1049,1193-1213
+Walter of Oxford,Reading Abbey,Directed,witnesses,Walter,Reading Abbey,Witness,Recipient,,1049,1193-1213
+Roger of Coley,Reading Abbey,Directed,witnesses,Roger,Reading Abbey,Witness,Recipient,,1049,1193-1213
+Andrew of Wallingford,Reading Abbey,Directed,witnesses,Andrea,Reading Abbey,Witness,Recipient,,1049,1193-1213
+Simon of Wallingford,Reading Abbey,Directed,witnesses,Simone,Reading Abbey,Witness,Recipient,,1049,1193-1213
+"Walter, son of Aldwin Wille","Aldwin, father of Walter",Undirected,related to,Walter,Aldwin,Son,Father,,NA,NA
+"Alan, brother of Raymond","Raymond, the merchant",Undirected,related to,Alan,Ramund,Brother,Brother,,NA,NA
+Jordan Wille,Ralph Wille,Undirected,related to,Jordan,Radulfo,Brother,Brother,,NA,NA
+"Nicholas, brother of Meuselmus of Bolney",Meuselmus of Bolney,Undirected,related to,Nicholao,Meuselmo,Brother,Brother,,NA,NA
+"Robert, brother of Hugh of Shottesbrooke","Hugh, brother of Robert",Undirected,related to,Robert,Hugone,Brother,Brother,,NA,NA
+"Ralph, father of Raymond","Raymond, son of Ralph the steward",Undirected,related to,Radulfo,Remundo,Father,Son,,NA,NA
+John de la Rivera,"Gerold, son of John de la Rivera",Undirected,related to,Johanne de la Rivera,Geroldo,Father,Son,,NA,NA
+Azo of Sonning,"Richard, step-son of Azo of Sonning",Undirected,related to,Azone de Sunnyngges,Ricardo,Father,Step-Son,,NA,NA
+Hugh of Dunesden,"Richard, son of Hugh of Dunesden",Undirected,related to,Hugone de Dunesdene,Ricardo,Father,Son,,NA,NA
+Robert of Waltham,"William, son of Robert of Waltham",Undirected,related to,Robert de Waltham,Willelm,Father,Son,,NA,NA
+Gilbert super Pontem,"Gilbert, son of Gilbert super Pontem",Undirected,related to,Gilbert super pontem,Gilbert,Father,Son,,NA,NA
+Walter of Oxford,"Walter, son-in-law of Walter of Oxford",Undirected,related to,Walter de Oxonia,Walter,Father-in-Law,Son-in-Law,,NA,NA
+"Geoffrey, father-in-law of Turgiso","Turgis, Geoffrey's son-in-law",Undirected,related to,Galfrido,Turgiso,Father-in-Law,Son-in-Law,,NA,NA
+Jordan Wille,Ralph Wille,Undirected,related to,Jordan,Ralph,Brother,Brother,,NA,NA
